@@ -12,10 +12,7 @@ from datetime import date
 import calendar
 import graficas
 
-
-import pandas as pd
 import plotly
-import plotly.express as px
 import plotly.graph_objects as go
 
 
