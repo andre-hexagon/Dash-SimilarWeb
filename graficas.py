@@ -68,7 +68,7 @@ def plot_wordcloud_purchases(df):
     text1_cp= " ".join(text_cp)
     text2_cp = text1_cp.replace(',','')
     text2_cp
-    wc = WordCloud(background_color='white', width=1080, height=360)
+    wc = WordCloud(background_color=None, width=1080, height=360)
     wc.generate(text2_cp)
     return wc.to_image()
 
@@ -82,16 +82,16 @@ def plot_wordcloud_views(df):
     dfc['tokenized_title']=dfc['title'].str.split(" ",expand = False)
     dfc['title']=dfc['title'].str.lower()
     dfc['title_wo_stopwords']=dfc['title'].apply(lambda x:[item for item in str(x).split() if item not in stop])
-    dfc2p = dfc[ dfc['rule_name']  == 'Product Views']
-    dfc3p = dfc2p.loc[dfc2p.index.repeat(dfc2p.users)]
-    dfc3p = dfc3p.reset_index()
-    text_cp=[]
-    for i in range(0,len(dfc3p)):
-        text_cp += dfc3p.title_wo_stopwords[i]
-    text_cp
-    text1_cp= " ".join(text_cp)
-    text2_cp = text1_cp.replace(',','')
-    text2_cp
-    wc = WordCloud(background_color='white', width=1080, height=360)
-    wc.generate(text2_cp)
+    dfc2v = dfc[ dfc['rule_name']  == 'Product Views']
+    dfc3v = dfc2v.loc[dfc2v.index.repeat(dfc2v.users)]
+    dfc3v = dfc3v.reset_index()
+    text_cv=[]
+    for i in range(0,len(dfc3v)):
+        text_cv += dfc3v.title_wo_stopwords[i]
+    text_cv
+    text1_cv= " ".join(text_cv)
+    text2_cv = text1_cv.replace(',','')
+    text2_cv
+    wc = WordCloud(background_color=None, width=1080, height=360)
+    wc.generate(text2_cv)
     return wc.to_image()
