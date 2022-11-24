@@ -90,5 +90,28 @@ def plot_wordcloud(df,category):
         ))
         
     return(fig)
+
+################################################## 
+######### Nube de Palabras para barritas#########
+##################################################
+def plot_wordcloud(df,category, w, mode = 'RGB',file_ouput = 'image.png'):
+    df = df[df.main_category.isnull() == False]
+    dfc = df[df['main_category'].str.contains(category)]
+    dfc['tokenized_title']=dfc['title'].str.split(" ",expand = False)
+    dfc['title']=dfc['title'].str.lower()
+    dfc['title_wo_stopwords']=dfc['title'].apply(lambda x:[item for item in str(x).split() if item not in stop])
+    dfc3p = dfc.loc[dfc.index.repeat(dfc.estimated_purchases)]
+    dfc3p = dfc3p.reset_index()
+    text_cp=[]
+    for i in range(0,len(dfc3p)):
+        text_cp += dfc3p.title_wo_stopwords[i]
+    text_cp
+    text1_cp= " ".join(text_cp)
+    text2_cp = text1_cp.replace(',','')
+    text2_cp
+    wc = WordCloud(mode=mode,width=w, height=210, random_state = 77300, 
+                            background_color = None, collocations=False).generate(text2_cp)
+    wc.to_file(file_ouput)
+    return wc.to_image()
 ######################prueba##############################
 plot_wordcloud(df,'Alimentos y Bebidas', 972)
