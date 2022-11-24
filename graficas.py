@@ -113,15 +113,13 @@ def plot_indicator(df,metric):
     return(fig)
 
 ################################################## 
-######### Nube de Palabras para barritas#########
+######### Nube de Palabras con barritas###########
 ##################################################
-def plot_wordcloud(df,category, w, mode = 'RGB',file_ouput = 'image.png'):
-    df = df[df.main_category.isnull() == False]
-    dfc = df[df['main_category'].str.contains(category)]
-    dfc['tokenized_title']=dfc['title'].str.split(" ",expand = False)
-    dfc['title']=dfc['title'].str.lower()
-     dfc['title_wo_stopwords'] = dfc['title'].apply(lambda x: [x.lower() for x in re.findall(r'\w+',str(x)) if x.isalpha() and x not in stop and len(x) > 2])
-    dfc3p = dfc.loc[dfc.index.repeat(dfc.estimated_purchases)]
+def plot_wordcloud(df,category, w, mode = 'RGB',file_ouput = 'image.png', variable = 'sub_sub_category'):
+    df = df[df[variable].isnull() == False]
+    dfc = df[df[variable].str.contains(category)]     
+    dfc['title_wo_stopwords'] = dfc['title'].apply(lambda x: [x.lower() for x in re.findall(r'\w+',str(x)) if x.isalpha() and x not in stop and len(x) > 2])
+    dfc3p = dfc.loc[dfc.index.repeat(dfc.estimated_views)]
     dfc3p = dfc3p.reset_index()
     text_cp=[]
     for i in range(0,len(dfc3p)):
@@ -133,5 +131,69 @@ def plot_wordcloud(df,category, w, mode = 'RGB',file_ouput = 'image.png'):
     wc = WordCloud(mode=mode,width=w, height=210, random_state = 77300, 
                             background_color = None, collocations=False).generate(text2_cp)
     wc.to_file(file_ouput)
-    return wc.to_image()
+
+
+
+
+def barCloud(df, w, variable = 'sub_sub_category', mode = 'RGB', top = 5):
+    w = w
+    variable = variable
+    df_group = df[[variable,'estimated_views']].groupby(variable, as_index=False)\
+                                                .sum()\
+                                                .sort_values('estimated_views',ascending = False)[:top]\
+                                                .sort_values('estimated_views')\
+                                                .reset_index(drop = True)
+    
+    df_group['estimated_views'] = df_group.estimated_views.apply(int)
+    lista_images = df_group[variable].to_list()
+
+    for n, images in enumerate(lista_images):
+        file_name = "image{}.png".format(n+1)
+        plot_wordcloud(df, images, w, file_ouput = file_name, mode = mode)
+    
+    fig = go.Figure()
+
+    fig.add_trace(
+        go.Bar(
+            x= df_group.estimated_views.to_list(),
+            y= df_group[variable].to_list(),
+            marker=go.bar.Marker(
+                color="rgb(256, 256, 256)",
+                line=dict(color="rgb(0, 0, 0)",
+                          width=2)
+            ),
+            orientation="h",
+        )
+    )
+
+    # Add images
+    for i, row in df_group.iterrows():
+        fig.add_layout_image(
+                dict(
+                    source=Image.open("image{}.png".format(i+1)),
+                    xref="x",
+                    yref="y",
+                    xanchor="center",
+                    yanchor="middle",
+                    x=row[1] * 0.501,
+                    y=row[0],
+                    sizex= row[1],
+                    sizey= 0.8,
+                    sizing="stretch",
+                    layer="above")
+        )
+
+    # update layout properties
+    fig.update_layout(
+        autosize=False,
+        height=900,
+        width=1000,
+        bargap=0.15,
+        bargroupgap=0.1,
+        barmode="stack",
+        hovermode="x",
+        margin=dict(r=20, l=300, b=75, t=125)
+    )
+
+    fig.show()
 
