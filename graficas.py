@@ -99,7 +99,7 @@ def plot_wordcloud(df,category, w, mode = 'RGB',file_ouput = 'image.png'):
     dfc = df[df['main_category'].str.contains(category)]
     dfc['tokenized_title']=dfc['title'].str.split(" ",expand = False)
     dfc['title']=dfc['title'].str.lower()
-    dfc['title_wo_stopwords']=dfc['title'].apply(lambda x:[item for item in str(x).split() if item not in stop])
+     dfc['title_wo_stopwords'] = dfc['title'].apply(lambda x: [x.lower() for x in re.findall(r'\w+',str(x)) if x.isalpha() and x not in stop and len(x) > 2])
     dfc3p = dfc.loc[dfc.index.repeat(dfc.estimated_purchases)]
     dfc3p = dfc3p.reset_index()
     text_cp=[]
@@ -113,5 +113,4 @@ def plot_wordcloud(df,category, w, mode = 'RGB',file_ouput = 'image.png'):
                             background_color = None, collocations=False).generate(text2_cp)
     wc.to_file(file_ouput)
     return wc.to_image()
-######################prueba##############################
-plot_wordcloud(df,'Alimentos y Bebidas', 972)
+
