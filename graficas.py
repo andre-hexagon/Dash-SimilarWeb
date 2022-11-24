@@ -131,5 +131,4 @@ def plot_wordcloud(df,category, w, mode = 'RGB',file_ouput = 'image.png'):
                             background_color = None, collocations=False).generate(text2_cp)
     wc.to_file(file_ouput)
     return wc.to_image()
-######################prueba##############################
-plot_wordcloud(df,'Alimentos y Bebidas', 972)
+
