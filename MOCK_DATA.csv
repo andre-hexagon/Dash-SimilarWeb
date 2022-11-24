@@ -1,0 +1,1001 @@
+producto,title,canonical_url,brand,breadcrumbs,main_category,sub_category,sub_sub_category,main_amazon_category,estimated_views,estimated_purchases,month,site
+d42bb11d-cfca-4aac-9b04-3845515eebed,producto 2,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria3,category3,7003.77,4217.47,09,El Palacio de Hierro
+458fac2e-e652-47c3-b08f-01e1a614970b,producto 1,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria3,category2,3812.64,1704.11,05,Office Depot
+8201be76-f551-4810-b384-b8f8002e7787,producto 3,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria2,category3,947.32,2792.45,04,Office Depot
+0819652f-1bec-469a-a9d8-b5bf75831f8e,producto 2,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria1,category1,185.67,6604.73,01,Mercado Libre
+cad5f795-497e-4248-b488-e95f588194a7,producto 2,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria2,category2,4824.49,2204.63,05,Best Buy
+dd9942cb-1c69-403d-9878-5ed154a6750f,producto 2,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria3,category2,1782.21,2891.32,07,Office Depot
+ce1616e0-462c-4034-b03d-123a9a481ee6,producto 1,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria3,category3,9804.12,9453.22,12,Office Depot
+982bb957-7ec6-4999-a111-576fad9fc6d7,producto 1,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria1,category1,8428.52,1744.27,03,Liverpool
+755e194c-1f96-40a5-a713-5067468254bc,producto 2,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria2,category2,2171.49,8891.98,14,Office Depot
+f1d6e7f1-6021-481d-a0d6-8ae73c1fe023,producto 1,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria3,category3,5256.23,1208.83,15,Amazon
+975046c5-f421-4e51-a074-4ce0a11b923c,producto 2,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria2,category3,6051.29,2735.23,02,Mercado Libre
+d1da9a7f-b10b-4f21-989f-e44fe8b67148,producto 1,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria3,category1,7109.93,289.24,08,El Palacio de Hierro
+cb2e6857-c6c0-4a81-897b-a502dc2c3f62,producto 2,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria1,category2,3689.42,5390.05,10,El Palacio de Hierro
+aab80a97-7dc2-4ea0-9a0a-2ad6534a78ca,producto 2,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria1,category2,3645.75,5243.68,07,Liverpool
+6197a258-3fb1-4450-900a-8dd66a54a5e1,producto 3,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria2,category3,5907.54,8450.52,02,Best Buy
+3a918b1c-2885-46bc-8ad6-4444ee3b8dec,producto 3,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria3,category3,1686.29,1099.83,01,Amazon
+8fc0d43e-89dd-4daf-803a-7a7e2a60e06e,producto 3,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category1,9262.68,671.23,09,Office Depot
+6ac42b17-5d06-4dbb-b176-30ba140bed0e,producto 1,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria3,category2,1051.34,8764.61,12,Mercado Libre
+59be06ee-8fdd-4c7b-9151-a55c154ad008,producto 1,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria3,category1,8284.55,6182.51,02,El Palacio de Hierro
+56244a76-0960-4a48-8aca-5ad3ac5e1f2e,producto 3,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria2,category3,6738.79,7811.6,05,Office Depot
+d0be1540-cf02-4132-a1be-59c13d5f93ab,producto 3,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria1,category2,5604.59,3585.03,14,El Palacio de Hierro
+32fda75c-5911-4ad3-91c5-95699482cc5c,producto 3,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria3,category1,4448.54,4377.76,15,Liverpool
+6622ef0a-228a-45bf-9852-51b5794e6e8c,producto 1,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria2,category1,4300.74,2086.09,09,Amazon
+eef12c23-2aa5-45e1-bb05-ea8a9d5d9a9d,producto 2,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria3,category1,5048.57,8248.43,05,Mercado Libre
+a82caed8-66f2-4189-ae23-830c6ce8a224,producto 1,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria1,category1,1618.77,388.93,10,El Palacio de Hierro
+3271368f-4b7f-4eea-afc6-d1d0b5c555bd,producto 1,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria2,category3,8846.19,6699.61,08,El Palacio de Hierro
+92e22412-b971-4a99-9fa5-70fc6f40db6a,producto 3,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria1,category1,6542.41,9494.99,09,Best Buy
+9bc23f5d-ca95-49da-b793-703f487d77c9,producto 2,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria3,category1,6665.36,9809.93,01,Liverpool
+c1175105-3aec-4148-bda6-d876be280161,producto 2,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria3,category3,8733.86,4821.67,02,Liverpool
+fe762ba4-7ee9-4a88-a50f-3bb14bc1b4ff,producto 1,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria3,category1,5990.69,963.88,11,Mercado Libre
+918dca6a-9c56-475d-b0d7-ef460f541039,producto 2,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria3,category3,5416.66,5823.0,14,Liverpool
+837f341f-6971-4421-b023-6a0058708624,producto 2,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria3,category1,7870.78,1828.58,10,Office Depot
+38808809-9d1a-4cf4-8c8b-c87061a80536,producto 2,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria2,category3,8770.6,795.52,04,El Palacio de Hierro
+833a5663-8732-44c5-8417-1e142ac9b37c,producto 1,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria2,category2,781.35,4370.75,07,El Palacio de Hierro
+c83dea64-bfaa-4070-a6f6-da02460c2368,producto 1,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria2,category1,1235.3,892.59,06,Liverpool
+a45a6fb3-4745-4378-bc91-1a09d329917a,producto 1,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria3,category3,9911.83,6550.99,01,Liverpool
+81db7c6d-4130-4725-8f27-c52ed806e185,producto 3,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria3,category2,531.51,4556.54,02,Liverpool
+5eef96da-753c-4800-af21-00f05abc1081,producto 2,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria2,category1,9521.96,73.46,13,Liverpool
+073246d0-d67b-4761-8d77-2cde978a16f3,producto 2,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria2,category1,2863.51,1862.02,03,Office Depot
+e8405d8d-d7af-48ec-8f5f-7c51f740053a,producto 1,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria1,category3,5282.93,4669.78,05,Amazon
+9fb360e7-384e-49d7-bcf1-f64737f76357,producto 2,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria1,category3,8804.4,293.72,13,Mercado Libre
+fe7a29fd-1eb2-48e6-a2e1-798a2b0cbc2c,producto 2,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria1,category1,6746.35,2389.74,14,El Palacio de Hierro
+b15b3d2f-ab6c-41eb-bd04-a93b68c4ee56,producto 3,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria3,category2,222.77,6192.05,08,Office Depot
+90d750e8-62d6-493c-b8c3-df6c605228e0,producto 1,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria2,category1,911.19,6378.25,06,Office Depot
+53b8279d-1e95-4688-9aa4-e599b1db4de7,producto 2,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria2,category1,1039.68,5653.32,14,Mercado Libre
+5c2fe1a3-015f-4882-a2ed-2d1feab92f33,producto 1,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria1,category3,8761.61,4776.59,12,Office Depot
+67330c09-a054-49ce-bbd0-aad1c61a6611,producto 1,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria2,category1,2636.86,7085.01,08,Amazon
+d5046cd8-fe39-4190-8fb3-b8a32fab4104,producto 2,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria3,category1,7185.28,8527.74,10,Amazon
+aed68d08-daf2-4fce-9865-63150ee991ec,producto 1,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category2,2101.07,5473.8,10,Mercado Libre
+5e17daff-6a6a-4623-aded-3b38e7738c6a,producto 1,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria1,category2,1680.74,8045.84,06,El Palacio de Hierro
+31cad20b-5630-409e-a5ec-a40c727a791e,producto 2,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria1,category1,9335.63,8638.86,15,Office Depot
+e600dc23-d810-4eab-bda2-b77ff1ba5310,producto 2,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria3,category1,9076.74,1534.26,15,Amazon
+06ffe6f5-db6e-48e5-bf4f-08bce9c0ba7b,producto 3,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria3,category3,3592.96,9109.66,03,Liverpool
+7247c32f-65d2-4460-bc3f-0302fea2b55d,producto 2,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria1,category3,747.31,1860.44,10,Best Buy
+b6787d7b-4f5e-4669-9a0c-1ee330499282,producto 2,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria2,category3,4025.71,6906.7,08,Office Depot
+487c3d6d-3f0d-475a-bf93-b6d63342bcc9,producto 2,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria1,category3,9549.12,9782.34,10,El Palacio de Hierro
+d2ba4e7d-e417-4f5d-b35a-b711a3eabbea,producto 2,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria3,category3,3670.6,844.61,14,Best Buy
+078cdd2a-1aa6-4864-b92a-d1d4e1debc67,producto 2,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria1,category3,7874.44,7536.85,14,Office Depot
+5612f400-47c3-4507-be9e-9c28bff20bff,producto 2,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria3,category3,4673.39,5561.98,08,Liverpool
+6dc40101-544a-40eb-8373-573dbcfa03de,producto 2,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria1,category2,7898.21,3460.99,06,Liverpool
+1ee1b5b3-c54e-410b-9179-e37a759d1dc7,producto 2,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria1,category3,8395.52,1627.8,01,El Palacio de Hierro
+3ae62d0c-f0a7-4c89-a2fa-51fd8c8dab23,producto 3,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria2,category2,7768.68,3751.77,15,Amazon
+9752ff5c-6e54-43f5-af32-be2b7ba456e9,producto 1,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria3,category3,4896.48,8277.42,06,Office Depot
+322ef9ab-05e0-400c-975e-1ac2e26dae5d,producto 2,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria2,category1,5251.46,7605.43,08,Amazon
+48a996e3-e474-4ef5-a31d-4c0bdeeaf87f,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category1,7320.03,735.63,07,El Palacio de Hierro
+5c9f2978-40f0-4862-8f78-36597e4378d6,producto 3,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria1,category3,8357.27,8882.48,01,Liverpool
+65623af5-5beb-4d6b-932c-1fe9dee6c054,producto 3,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria3,category1,8401.88,3431.85,01,Liverpool
+eaae0fe4-036b-4eb2-9442-e1f39712c919,producto 3,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria2,category1,3170.56,9392.02,04,Best Buy
+1aab3786-ace5-43cc-b8e1-e2c10c3fe820,producto 2,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria2,category1,9760.29,8049.24,04,Mercado Libre
+0249ce5b-b904-46a7-a13c-6aef71361412,producto 3,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria3,category3,9619.97,5214.56,15,El Palacio de Hierro
+ddf68fba-0f63-4422-9a8a-854dc1973bab,producto 1,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria1,category3,8811.45,9396.14,09,Mercado Libre
+b8904d15-84ec-4b32-bc27-1da4af101446,producto 3,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria3,category2,6965.91,5489.69,03,Amazon
+5e1b83d2-6e4c-45a4-842b-4be7c82569e5,producto 1,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria3,category2,5804.01,762.83,05,Office Depot
+58085876-57ae-4e31-9889-1c9f050e49a7,producto 3,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria3,category3,7509.35,723.05,09,Best Buy
+94ac3598-6666-4dfd-ab59-1a36c10e85f4,producto 3,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria2,category1,5282.27,1950.86,01,Best Buy
+d64570dc-5922-4d4e-9e83-2c766100ef98,producto 1,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria3,category1,292.11,1333.98,01,Amazon
+68155c39-318f-420b-9afb-1821672f9dc3,producto 2,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria1,category3,3030.95,4572.65,06,Liverpool
+428cf366-4ca0-47ac-aff4-660a11213864,producto 2,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria2,category3,2116.04,1091.53,08,Liverpool
+b9c5acc2-2c8d-4cd6-b700-6403a2dfb534,producto 3,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria3,category1,6389.01,5477.72,02,Office Depot
+712a0104-adb2-4076-9e73-82e3c40268fe,producto 2,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria1,category1,2419.73,1321.86,06,Liverpool
+e6c26b99-fa67-4c61-b84d-8638194433b4,producto 3,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria3,category2,2629.49,4526.21,01,Liverpool
+955f8f3f-6aa3-4892-b22e-1e59102278cb,producto 1,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria2,category3,9575.54,6285.19,03,Mercado Libre
+febba4ce-a844-4cc7-bbcf-3be174cd0962,producto 3,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria2,category2,6197.81,8054.11,06,Liverpool
+16ef5cf3-0345-451d-a1c7-b77f786e9ac1,producto 2,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria1,category2,9915.26,6055.24,14,Amazon
+1d3c699b-13a2-455b-b81b-e1f79ee28dfe,producto 1,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria3,category2,502.72,2505.89,08,El Palacio de Hierro
+2e8eb9cf-8f30-4163-8fc2-5a90221c8a50,producto 2,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria3,category3,2544.54,7253.35,15,Mercado Libre
+9e479b2e-d3f1-4dfb-8885-db7393e5fecb,producto 2,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria1,category3,5717.77,7536.99,02,El Palacio de Hierro
+56516ca8-d94a-4efe-aaf7-7c2c95ff2993,producto 2,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria1,category2,9587.39,9461.13,01,Amazon
+2011f9a3-9052-4ede-ab74-fbb4f8fbf424,producto 2,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria2,category3,4078.42,3348.47,10,El Palacio de Hierro
+936480a1-7968-4c2d-a5a7-a1fbccfac0a9,producto 3,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria1,category3,6604.31,3135.91,13,Office Depot
+fb81ea12-4bc8-4e9c-b950-123e0d7b4659,producto 1,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria3,category3,7553.31,4442.48,08,Amazon
+c0f98670-b9d7-4088-9317-9bf202c3c4ea,producto 3,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria1,category1,98.22,3722.82,01,Liverpool
+a6c1ba0f-c699-4964-8215-c8c552626707,producto 1,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria1,category3,9008.8,6140.47,10,Amazon
+cc4c8704-3c0a-49d6-99ba-a8a25fe070d0,producto 1,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria3,category2,7406.47,4354.33,11,Liverpool
+f7141a5b-ba7b-42ca-a049-9598d4feffed,producto 2,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria3,category1,4012.04,2034.3,10,Best Buy
+917548c2-c47e-47cd-8c71-a6d8818e52f9,producto 1,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria3,category1,5791.65,1105.53,06,El Palacio de Hierro
+ffdcb3ba-cd03-4837-8886-5b154848c15b,producto 3,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria1,category3,2634.02,7448.49,06,Liverpool
+4ff9467d-2f9f-4d03-a4c7-292acde7e58b,producto 2,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria3,category1,6716.21,3949.19,02,Amazon
+9bda21c5-f42f-417f-9617-10c61d692390,producto 2,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria3,category2,8377.54,5106.84,04,Liverpool
+ee24ebb4-35bf-44fe-9c1c-e9fa1544403e,producto 2,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria2,category3,7529.68,2092.58,09,Office Depot
+d2775709-ff1f-499e-9bf0-c9a1fcd433c3,producto 3,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria1,category3,5025.14,5010.77,01,Liverpool
+b607d654-0dee-40a5-aabc-f5a49ae4422c,producto 1,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria1,category2,5281.46,8967.82,12,Best Buy
+2ea78457-c8d6-432c-a593-76cb220a26af,producto 1,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category3,9458.66,9671.53,03,Amazon
+c53046d8-d42a-4836-9cce-e2233034024c,producto 1,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria3,category3,117.86,1255.4,07,El Palacio de Hierro
+e25596ae-bf34-4881-a24d-c9da454d3dda,producto 2,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria3,category1,16.98,2944.48,09,Amazon
+d20cbf51-8987-4a55-aecc-13c16a42a134,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria3,category3,922.14,3243.13,15,El Palacio de Hierro
+da9a6a46-685b-45ab-b64d-3565ee6964c5,producto 3,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria1,category3,8657.24,5494.42,14,Best Buy
+44ae826c-3fb0-42c2-95c6-1c73df140ce3,producto 1,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria3,category2,9023.52,3204.0,15,Liverpool
+04ea4a5a-1ea1-4304-bd6e-0dd842bf04a3,producto 2,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria2,category3,8837.65,5817.08,02,Mercado Libre
+48a41c7a-6bc2-47f6-9890-2f57d7db0204,producto 3,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria3,category2,4719.18,226.28,06,Mercado Libre
+0e02caf5-458e-4c7b-9d78-46bf5dea4a4a,producto 1,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria2,category2,9625.32,3463.55,12,El Palacio de Hierro
+6c4f3a76-da89-4090-bbec-150e6a975b6a,producto 2,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria3,category3,513.17,605.53,11,El Palacio de Hierro
+f0b1ff7d-4d01-491b-a598-3c08033cef06,producto 1,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria3,category2,6038.65,1522.33,01,Office Depot
+627d870b-4561-419b-ae85-b0660863c3d9,producto 1,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria2,category2,6812.57,9042.93,15,Office Depot
+1f16ce82-b885-48ee-b4dd-5de829bb0482,producto 1,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria3,category1,55.12,1043.11,03,Office Depot
+c5640fec-5b6a-4f69-858f-131dc21fcc28,producto 1,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria2,category2,2726.86,2187.87,12,Mercado Libre
+8a33542d-dadc-47ff-a501-89d2e5d8e732,producto 2,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria2,category2,180.06,9751.18,08,El Palacio de Hierro
+00d20d2b-6202-49c4-a27a-3d5dcfb3647a,producto 1,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria2,category3,6618.19,2976.96,07,Office Depot
+5b27c181-69d6-4c67-b7d3-5608b70b7fbd,producto 3,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria2,category3,6976.56,8389.09,12,Mercado Libre
+e0ce7aa0-d4a7-47a9-b4c1-dc3608a52ffc,producto 2,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria2,category3,5969.67,9179.06,11,Best Buy
+83d6091a-a9b6-4489-a12c-5c36499a3ed0,producto 1,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria2,category3,7294.34,81.29,07,Best Buy
+a95ee9c6-cda4-46e1-9669-943699d3e9fa,producto 3,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria3,category2,5010.64,918.23,03,Mercado Libre
+6f8e9eeb-6086-4cc1-a992-b73373284b02,producto 3,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria1,category3,3706.79,6581.53,14,Amazon
+c2677ab0-9daa-4f5a-af6f-e065c255c9a8,producto 1,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria2,category3,4212.8,4866.73,02,Mercado Libre
+11f07ca9-d100-430f-bd80-742163928703,producto 2,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria1,category1,2194.05,3997.25,10,Amazon
+d34e5936-6eb5-41df-972c-f60ec2c23a20,producto 2,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria1,category3,2213.86,8914.61,14,Amazon
+f98eb268-7969-4b67-bb67-d45f3ff8d4c0,producto 2,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria3,category1,7278.85,1535.18,02,Best Buy
+c62c8711-a01a-4861-8d37-6813000cae2a,producto 1,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria1,category1,5944.72,7609.23,04,Best Buy
+34b8116d-29cb-4e51-9956-148b12789f75,producto 1,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria2,category1,301.07,5677.88,11,Best Buy
+ffd51dd5-167d-4d56-a9c1-8f73028febd7,producto 3,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria2,category2,8056.45,3289.66,09,Mercado Libre
+d3176b63-ef5b-4c71-877f-0d89aa393e7e,producto 1,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria3,category1,9263.55,4455.05,06,El Palacio de Hierro
+4b7120b2-59d7-4dbd-884e-c0c8f638af6c,producto 3,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria2,category1,5905.89,2156.82,08,El Palacio de Hierro
+1ce38dfb-0a54-4df6-b834-6ddc1b558011,producto 1,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria1,category3,7339.27,7936.84,14,Best Buy
+1058d157-0795-42bc-926b-3cd68d376c04,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria3,category3,3131.72,7759.09,08,Mercado Libre
+4eb34846-a884-4543-8d84-86663ae2a8a1,producto 3,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria3,category1,9952.77,365.57,13,Best Buy
+c5446861-f488-422a-b892-100a65cd31c1,producto 3,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria3,category2,1613.52,1626.46,15,Mercado Libre
+01e89e6a-5cf6-4ae7-b190-21ed643fc891,producto 3,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category2,3134.87,6596.22,13,Liverpool
+9f2c4cdd-2274-447b-acf6-64faac567573,producto 3,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria3,category3,4318.51,3374.73,03,El Palacio de Hierro
+6c2e715c-1ce3-425b-8b9a-20e0dd2b7274,producto 2,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria3,category1,1462.68,3945.56,11,El Palacio de Hierro
+13deb091-cfb0-4efc-a30c-c12178310112,producto 3,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria1,category2,333.89,4375.83,09,El Palacio de Hierro
+4d269a84-d135-4a3d-8664-a35f6cc56cde,producto 3,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria1,category2,903.13,7238.16,05,Office Depot
+710738f8-df75-4db7-9a15-e9fa12f82102,producto 3,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria2,category2,1070.65,8113.19,06,El Palacio de Hierro
+52856f18-22fe-4fd0-af7a-2db8be0f9a0b,producto 2,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria2,category3,1929.0,3388.93,13,Best Buy
+143854bf-ea5b-4e79-8bef-f371478c6e83,producto 2,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria3,category3,1776.21,6936.5,07,El Palacio de Hierro
+6ff38697-ce69-47c4-af7f-64be0ff30a3d,producto 2,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria1,category2,6014.87,2308.45,04,Best Buy
+c8ac0a7f-7d3f-42a2-a91d-6690a4ab8b8f,producto 3,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria3,category2,3610.73,397.51,13,El Palacio de Hierro
+b1b2a0d5-1292-405e-b8e4-7e1a10cdb6e0,producto 1,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria2,category1,9159.4,251.37,11,Amazon
+48822675-2a43-4890-af3e-5a177027f3d3,producto 2,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria1,category3,753.67,5121.95,15,El Palacio de Hierro
+3dcf98e6-c627-4ae6-840f-4791f622e51b,producto 1,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria3,category1,1900.77,2718.47,10,Amazon
+ca17d685-904d-45e7-84d3-930c3e6b7528,producto 1,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria2,category3,8690.49,7183.82,08,Best Buy
+c6ec6fe1-b3e5-410d-a7fe-bea5c9540c29,producto 3,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria3,category2,1399.92,2129.72,02,Office Depot
+050a5b26-8c6a-4c18-bf74-2f770fe6f04e,producto 2,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria2,category1,7415.03,8311.73,13,Best Buy
+2dbc144f-d045-46c6-bfc9-d6379d9f074a,producto 2,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria3,category3,9387.78,3371.3,13,Best Buy
+ac5eec2a-94fc-4577-889c-ff727fe6e777,producto 2,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria2,category2,6749.64,4961.24,06,El Palacio de Hierro
+db3624aa-8feb-492c-b985-f1f5cb117ca9,producto 3,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria1,category2,2568.51,3935.48,12,El Palacio de Hierro
+876e13b0-bd12-4745-a3b1-bb5fcfe4ee22,producto 2,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria1,category3,3114.53,7531.89,07,Liverpool
+5ccdf903-ccb7-4599-b307-b45354ffa771,producto 1,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria1,category2,6733.21,2431.26,14,Office Depot
+f6eebf32-2507-4eb5-985b-27913131e2e5,producto 2,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria3,category2,1734.22,4700.33,15,Liverpool
+d9a71bdb-989f-4e61-b59f-6af103906d49,producto 2,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria3,category3,8942.95,9149.95,02,El Palacio de Hierro
+0fbe06f6-3aaf-4717-9517-0f8a6f2b7c5a,producto 3,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria2,category2,3486.65,4758.35,04,Office Depot
+35456bb3-755d-4637-8c5c-1a8ee5073ceb,producto 3,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria3,category2,7379.64,7141.88,11,Best Buy
+1140519b-a935-485f-bc40-f0c8588d1051,producto 2,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria3,category3,6810.65,5786.73,15,Office Depot
+7d26fc2a-e165-437f-a01a-da2cb4b28a09,producto 2,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria3,category1,7389.5,6654.02,14,Amazon
+30eedfc9-76d9-440f-a443-b1c6ce0be403,producto 3,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria2,category2,5685.56,5297.09,08,Office Depot
+415caee9-7bf2-4aa6-b852-a1742255a8b1,producto 3,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria2,category1,7156.0,4187.03,10,Best Buy
+6d6b870a-f0ec-45df-a4f0-77c7d7634712,producto 3,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria2,category3,2186.07,9274.61,04,Amazon
+43c3f19d-4873-4c51-be06-665473fa188f,producto 2,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria1,category3,2459.6,5123.05,07,Liverpool
+9f740041-2add-4e94-aeec-66bdb9869213,producto 1,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria1,category3,7064.25,6614.57,06,Best Buy
+de9158f7-067e-45db-8b0a-0b1cdddf3509,producto 3,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria3,category3,316.35,5960.11,02,Mercado Libre
+ca729059-0e24-4005-8eed-9f05b88d24c1,producto 1,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria1,category3,1413.32,466.08,13,Best Buy
+1522d10d-e802-492e-ae37-bdf36a5332e8,producto 2,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria1,category3,7027.89,9894.59,05,Best Buy
+38c40d12-5cb7-45ff-89c3-98cf2e04e833,producto 3,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria3,category1,3409.13,3866.22,11,Best Buy
+08ae1adf-305a-4e42-9ae4-95f7144bc7b8,producto 3,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria1,category2,3879.35,7872.83,04,Mercado Libre
+9cd88654-e2ae-4df0-b43c-ec4dec7cc3fa,producto 1,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria3,category1,1917.54,4041.09,14,Amazon
+d9322b69-cb44-4149-9fc6-97f2eb0c36fa,producto 1,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria1,category1,4922.24,9537.92,03,Office Depot
+80377848-0d55-4ef0-bbbf-76606408880c,producto 1,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria3,category1,9625.11,5998.03,08,Amazon
+ae1b0809-93e8-4415-94b5-d52d96a586e1,producto 1,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria3,category3,7379.19,5674.13,03,Best Buy
+3f12c199-4c5e-4942-ac4a-8228b90b74c3,producto 1,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria1,category3,1995.26,4410.54,03,Mercado Libre
+b2081633-198e-45d6-b289-1ab59c0670cd,producto 1,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria2,category2,2542.23,9132.62,06,Amazon
+3674e92d-eec8-4477-9f30-b560bf914e59,producto 1,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria2,category2,4982.42,1441.69,05,El Palacio de Hierro
+8b7b6442-628a-4ebe-83bc-6955ebd8341d,producto 2,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria3,category1,8566.33,3710.96,09,Mercado Libre
+bae4a74b-d352-4ef4-bd9e-ebb1bcb42f50,producto 3,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria3,category2,9113.85,777.15,12,El Palacio de Hierro
+006e4309-ed8e-4cf6-9138-4fed22447f16,producto 3,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria2,category1,7643.02,4878.31,01,Best Buy
+b10bb630-e91e-4f55-872f-63817d54f5ad,producto 3,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria2,category1,7693.76,6650.02,08,Best Buy
+1a66f015-8251-42cb-ac54-2c92165f3484,producto 1,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria1,category3,9839.26,6950.01,05,Best Buy
+de14edd1-a76d-4642-8c88-d00f4274a7e7,producto 1,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria3,category1,6815.41,2529.85,06,Mercado Libre
+92c1adeb-4b15-41d5-a181-36d642325a8d,producto 1,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category2,382.65,6117.73,14,Best Buy
+2cf10e1d-2410-474e-9dd9-1c5f99ebb786,producto 1,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria3,category2,7855.92,6629.92,06,Mercado Libre
+87f36c1e-988d-492c-9fcc-012ec911bf4a,producto 2,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria3,category1,4431.57,5224.63,15,Liverpool
+9ae3de85-46a0-4f76-bfe0-4c130585b813,producto 3,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria1,category3,8702.14,8493.11,14,Mercado Libre
+578064e8-0d63-4de6-a40d-6c3c90a6f8b2,producto 2,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria1,category2,93.34,4869.94,12,Liverpool
+854a585a-b3c0-48c8-bd5a-6381d996ba4e,producto 3,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria2,category1,3688.95,5178.56,15,Best Buy
+372c699c-0e2f-421f-a1a1-b8e295bbc4eb,producto 1,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria3,category2,7239.26,7860.32,15,Best Buy
+a547dbde-af81-42aa-8899-49a26a24a619,producto 2,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria1,category1,9900.22,6959.78,08,Liverpool
+3ffe8912-c34a-414d-80e2-24e8829454d5,producto 1,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria1,category2,7410.8,9457.77,08,Liverpool
+466d1e7b-bdf3-49ea-9e68-38973b2b46db,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria3,category1,4919.18,5609.3,02,Liverpool
+8d4d1aa2-0e91-4f2e-b9e2-9167f571c1c5,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria1,category2,7285.76,2008.97,09,Office Depot
+03832667-d366-4ca4-9a6e-81fd8a3b7f1b,producto 3,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria1,category3,8650.14,6557.87,13,Amazon
+5385c465-54ff-4ce1-90fe-9f4bc8af4dce,producto 1,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria2,category1,7101.96,959.69,02,Mercado Libre
+6b9f64d6-28c9-42f4-a64e-ecefdb65ebd0,producto 1,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria1,category1,8546.46,7123.19,12,Mercado Libre
+47c9b000-26d0-49e9-9f82-2a6d93548748,producto 2,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria1,category3,7856.02,8819.77,10,Amazon
+2b0fb40b-831a-468e-be16-0f3f2e93c5d9,producto 1,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria3,category1,5920.48,7942.97,11,Amazon
+07fc45fb-8252-44ce-ad50-0256ad262d36,producto 3,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria2,category2,7299.35,8275.83,03,Liverpool
+a8ca824c-5dd0-49ab-96dc-a38c2c3939d8,producto 3,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria1,category1,7071.08,1271.1,04,El Palacio de Hierro
+3883c02a-9aa7-4e12-87e2-ff696cef317c,producto 2,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria2,category2,2201.76,4088.82,15,Best Buy
+60ee8f42-533f-4899-b6fc-84de419986c8,producto 2,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria3,category3,7333.82,9103.48,08,Office Depot
+f5594804-0691-49da-aef8-aa16324a13a6,producto 3,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria1,category1,1387.86,1101.1,12,Office Depot
+4f899b17-b021-4629-8d06-4f7d3e59690b,producto 1,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria1,category1,4439.91,8377.5,06,Amazon
+9a08f662-e975-44a1-bf94-b2e461e862e8,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria3,category1,8631.61,8319.45,08,El Palacio de Hierro
+14f4fb1b-72ce-48c1-ad7c-957569426b3f,producto 3,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria2,category1,2265.03,7209.31,15,Mercado Libre
+322b66e3-bf01-42e6-8860-b9d3803fae93,producto 2,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria3,category1,1377.95,5345.7,13,Liverpool
+93c47302-47bb-485a-83eb-065fe3d7faaf,producto 1,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria1,category2,1000.97,7427.57,11,Liverpool
+553e0799-f969-481c-bc8e-eec64f08f29e,producto 1,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria1,category1,900.61,9592.01,07,Liverpool
+cf5028c5-eb66-455f-9bf0-86ca437290a3,producto 2,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria3,category1,9720.2,6504.79,12,Office Depot
+e6f75167-b8ec-4fc6-bff3-d9bdb2db396d,producto 1,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria2,category3,5674.79,611.11,14,El Palacio de Hierro
+4271e4b7-c414-45a9-ba7f-876676681f5d,producto 1,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria2,category3,8491.4,6501.56,06,Amazon
+8d758443-57cf-482a-a5e3-94583cfc8c8a,producto 2,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria1,category2,12.51,5838.19,10,El Palacio de Hierro
+66b6d1a0-66e7-41a3-b7e9-3745ef162895,producto 3,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria3,category1,7269.25,5848.28,05,Liverpool
+8f5da7be-160f-4b7b-935a-953f394608f6,producto 3,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria3,category2,4654.03,5001.89,10,Office Depot
+ce1aea7c-5dad-40d0-bb53-822d80ccf70b,producto 2,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria2,category2,6022.68,2142.63,14,Amazon
+87403ab2-6c3b-412c-b963-cb841585d88c,producto 1,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria2,category3,3376.7,1614.21,11,Mercado Libre
+63d4be04-cc57-45c2-be98-8719753d01d1,producto 1,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria2,category1,6349.5,5876.09,03,Liverpool
+2b9bb041-e2ca-4adb-9784-30c4dee91f92,producto 1,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria2,category2,6587.51,3699.71,01,Best Buy
+c5a6d00c-3e95-4444-a2d8-b9373c55a216,producto 1,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria2,category2,3660.21,7210.61,03,Liverpool
+7b16eb0a-ce70-4fa7-afb6-2f942a266aff,producto 3,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria3,category3,2678.4,2018.57,13,Liverpool
+193c865a-eb57-461b-a8b4-9b20092061cd,producto 2,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria3,category2,4610.92,4204.03,09,Office Depot
+82e6d4cb-3c71-4496-a8e0-4cdedca4da6b,producto 2,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria2,category3,7331.18,389.8,08,Best Buy
+992cd03c-3b64-4e46-9224-3c7ca2ad120f,producto 2,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria1,category1,562.31,1980.75,14,El Palacio de Hierro
+2667d710-1574-4653-b5db-e29f22d43191,producto 1,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria3,category3,3847.0,2112.72,08,Best Buy
+48f95398-faba-4cfe-a46c-be5bdcb00a28,producto 3,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria1,category1,5781.21,5.09,09,Amazon
+0534d733-f9f2-4e77-86cd-09214a51b788,producto 1,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria2,category3,2494.74,2289.41,10,Office Depot
+569d4d5f-56f6-4231-8532-684917e84ec7,producto 3,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria3,category2,7191.27,5551.16,06,Mercado Libre
+bbe90940-ace5-4764-ab92-3333273f2a02,producto 1,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria1,category2,4091.82,9700.24,09,Mercado Libre
+5049fbd3-cc08-4bd7-a998-48a176e40f24,producto 3,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria3,category3,3287.35,4877.67,14,El Palacio de Hierro
+c6afda56-92e4-4901-9f38-d84e20eae349,producto 2,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria1,category3,8723.04,4936.76,14,Amazon
+95693bba-e87d-4b09-af78-24028fc804d2,producto 2,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria1,category1,7062.96,7640.95,03,Amazon
+3f0eb735-14a0-4401-954d-61097229940a,producto 2,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria2,category3,7424.13,7466.61,15,Best Buy
+faf56d7f-554f-49e1-97a2-7750563b126d,producto 2,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria2,category2,2416.06,170.61,14,Liverpool
+955693a6-094a-423c-9765-7bc53b956593,producto 1,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria2,category3,6883.51,1794.48,13,El Palacio de Hierro
+d6698db3-cf12-4f65-9e40-5f178c2f5dee,producto 2,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria2,category3,3554.24,2199.27,11,Best Buy
+3c1fc801-9680-440f-9471-55a53d254a89,producto 3,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria3,category1,2762.62,9624.52,14,Amazon
+5e873a1d-8578-4a8d-87c5-b9c5a0d516a0,producto 3,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria3,category2,3277.17,6182.99,10,Mercado Libre
+d5fd83b0-2d2d-4371-a9e0-c30be66cd101,producto 2,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria3,category2,5494.77,6208.11,15,Mercado Libre
+c53c7aaa-0243-4d06-8970-6a2cc96e9ed4,producto 1,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria3,category1,1527.24,7149.21,11,Amazon
+082fe236-274f-444f-bcf1-4723c4cac8ab,producto 2,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria3,category2,3872.25,3405.98,04,Best Buy
+ffdf2b9e-4c3d-46dc-8c6d-650c675a8d85,producto 3,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria3,category3,8019.87,3228.96,07,Amazon
+d935fce8-142c-430a-a612-e8552d639b4b,producto 3,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria1,category2,616.31,7630.5,09,Best Buy
+2e94219c-9eb6-456f-9f5d-230bdfd7af9c,producto 2,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria3,category3,6004.03,6839.64,13,Amazon
+78a2dbaf-b58c-40b5-bd90-a42144c0dbc1,producto 3,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria2,category1,9960.41,8532.82,03,Liverpool
+f4b818cb-af3a-4e70-8da8-ceff928f1be7,producto 3,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria2,category3,7873.0,2111.06,08,El Palacio de Hierro
+7d04bc94-1002-4dd7-a8dc-d7e6731e7845,producto 2,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria2,category3,5018.15,2069.08,09,Amazon
+bbcd2383-66e8-4212-b747-5a0010dd6080,producto 3,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria1,category2,1729.43,8480.21,14,Office Depot
+74bb5853-5e64-4717-8bec-60a70f214c59,producto 1,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria1,category1,4575.36,6640.06,03,Mercado Libre
+78b9264b-2f57-4bd1-9896-08530e0b54d5,producto 1,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria1,category2,7584.82,5741.31,12,El Palacio de Hierro
+de5112af-cac3-430e-a7c1-4afefe6e1e30,producto 1,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria3,category2,5517.77,1174.5,01,Mercado Libre
+0f088c3c-300a-4e40-b367-fb5c1643d827,producto 2,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria1,category2,7611.52,5244.04,05,Best Buy
+50424d0e-675f-47c2-b218-cc3511897c44,producto 3,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria1,category3,6362.53,5605.55,11,Amazon
+c71b4dfc-550b-427a-ad0e-008ada058358,producto 3,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria2,category3,7000.31,7857.84,02,El Palacio de Hierro
+b84d8027-f5a3-4f5f-87f4-8bf69621932a,producto 1,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria2,category3,6128.93,6939.75,01,Mercado Libre
+d4260730-1435-4d41-aa53-c9b7d2f044ce,producto 3,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria2,category2,2192.88,7705.62,04,Liverpool
+b401b91b-6ee6-4135-8f1f-290ae4f168ab,producto 1,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria1,category2,7602.34,105.55,11,Mercado Libre
+aa074aaf-3a18-48c9-8030-df2d3f4b86a6,producto 1,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria1,category3,6385.29,1883.94,12,Liverpool
+e6fedcab-2257-4cca-aed6-a1161f871ff1,producto 1,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria1,category1,7601.88,2038.64,05,Mercado Libre
+54e65f43-9ca1-4f22-a9e2-c34f0543ce7c,producto 2,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria1,category3,1165.09,5637.7,05,Best Buy
+bd3b13f6-bc63-4225-9198-779cf38b1b70,producto 1,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria3,category3,4933.43,5094.12,13,Amazon
+a8469f15-c70d-4101-903f-a4834423e12c,producto 3,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria3,category1,253.7,9895.76,03,Liverpool
+83070721-1241-453c-9c40-7365a9bfbd89,producto 1,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria1,category3,9923.03,6106.66,05,El Palacio de Hierro
+7d1c21d6-12ca-4c29-8445-1eddf856d65b,producto 3,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria2,category3,9621.88,2670.38,03,Office Depot
+1f049313-4d0e-400e-b98f-cf06a6be0c8f,producto 2,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria3,category3,9319.72,1615.68,07,El Palacio de Hierro
+ef1e3391-77b2-41f5-b28f-666e06f79b94,producto 3,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria1,category3,1405.07,4572.2,01,Office Depot
+963da851-35e3-4d2a-9b92-fcf09b3bb2f3,producto 2,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria3,category3,2603.43,4942.88,06,Mercado Libre
+df6ee9d8-9852-40cc-8058-a127e57e88b9,producto 2,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria1,category2,8098.17,302.93,03,El Palacio de Hierro
+80ff3473-12dc-4105-be38-75671c76ffb8,producto 1,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria1,category2,1356.7,6773.09,06,Amazon
+03ba544c-e058-450e-9725-d6ac4daa7375,producto 3,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria3,category3,2467.6,495.57,12,Liverpool
+30ef1b38-7aaf-40e4-b5e0-d1baf87e92c0,producto 3,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria1,category3,2271.58,2984.55,09,Office Depot
+5a9451b0-333b-4664-8a05-67a8f92e805a,producto 3,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria2,category3,9634.21,345.68,04,Best Buy
+9fd9cd56-c959-483a-a361-88a89d28586f,producto 3,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria3,category1,4642.09,6945.61,15,Amazon
+4a08f1d8-9db8-45c6-a8de-f0e9a39c44c0,producto 3,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria2,category2,7859.04,6952.82,03,Liverpool
+a43a43d9-7779-438e-a12b-e7ca30809f01,producto 2,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria3,category2,2573.77,4897.83,12,Best Buy
+d83a6217-968f-46bd-bceb-a8e065343ed2,producto 1,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria3,category1,5054.35,5266.13,13,Amazon
+0b915cca-83eb-44db-8eab-deba24431e6a,producto 3,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria1,category3,9445.49,603.68,11,Best Buy
+dd1b5ebd-c9f4-49a3-930a-91e82449310c,producto 2,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria1,category3,826.42,5826.44,07,Best Buy
+f433038e-a51e-4db4-814c-ff2e1606b87f,producto 1,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria1,category3,2017.11,9886.8,11,Office Depot
+479c8b31-0811-4061-ad9c-be05b29bc379,producto 3,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria3,category1,5078.35,5496.39,14,Mercado Libre
+7b512057-bd6a-426a-98c8-b263c0eeef87,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria1,category2,538.16,9442.87,05,Liverpool
+99fb6f52-fc12-43c4-887c-972420c07164,producto 2,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria2,category3,616.64,4298.51,08,Best Buy
+f4048a17-8a85-4838-adde-d588d4fe9a16,producto 2,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria2,category1,4924.46,9631.8,12,Best Buy
+0500dc57-75c9-493e-80ce-460894233fab,producto 3,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria2,category3,7613.81,4367.42,09,Best Buy
+dc190300-9495-49ab-b788-6762282d9540,producto 3,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria1,category3,2165.75,8546.03,05,Office Depot
+0384ba62-463a-4581-8680-f8ef311760fa,producto 2,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria1,category3,7612.95,2477.62,12,Amazon
+a3231493-7010-405c-8361-3e7c1750b999,producto 2,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria2,category3,1688.0,13.36,10,Mercado Libre
+0c3564fe-8620-4904-a1e8-1d66ff682b90,producto 2,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria3,category3,3020.53,1869.71,08,Office Depot
+0fba2b18-bafc-41b9-a62c-3a43f5b170e1,producto 1,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria2,category1,6941.78,4108.19,02,Amazon
+7ed5040f-9f84-45ec-8728-95cd4559cddb,producto 3,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria2,category3,1182.55,1411.36,07,El Palacio de Hierro
+88523aec-bde5-46c5-be46-3cbdf36e3ff1,producto 3,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria3,category2,3746.76,1577.26,03,Mercado Libre
+5ca319b4-a4f3-4cc9-96c1-2aeb4303607b,producto 2,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria2,category2,9674.21,7388.99,01,Amazon
+dcc421ad-e870-4806-b50f-9b83a83e6480,producto 1,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria1,category3,8303.33,5595.13,15,Amazon
+ab3ca2f7-0a23-4141-99c4-5d270f78588c,producto 3,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria1,category2,2424.5,9761.38,11,Liverpool
+a3e6f06b-420f-4dc6-a169-d9d20d67cb79,producto 1,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria2,category3,7618.33,5318.53,03,Amazon
+1788a1c0-292f-4ccd-aaa4-6a89bc0cdf6b,producto 3,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria3,category3,4972.61,2289.7,08,Best Buy
+485d3e3d-9c4d-42f0-a51e-a2357be019d8,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria2,category2,4989.01,3378.17,01,Amazon
+b1126df7-67e4-427a-82da-df3f088ac210,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria2,category3,1283.63,8585.2,02,Liverpool
+96f31632-5013-4154-9725-67a0c4d00cab,producto 3,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria3,category3,9308.91,8570.87,01,El Palacio de Hierro
+da71fb45-f211-412a-96c9-0cf2172870e6,producto 3,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria1,category1,5329.98,2035.05,09,Amazon
+003eeb39-7d2e-43fd-84c6-e7795aa80e2f,producto 2,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria1,category1,8658.46,9941.65,01,Mercado Libre
+3525f7c5-0402-469c-af5f-5fbeabf88572,producto 2,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria3,category2,4274.27,4637.21,10,Mercado Libre
+f9bb7b3e-18fc-4af7-85a4-12ad59770605,producto 2,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria1,category1,7312.86,1207.73,06,Best Buy
+a5497e25-84b4-4e45-a48a-eba4f3787a2e,producto 3,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria1,category2,6232.83,281.92,03,El Palacio de Hierro
+06a6491a-b830-4a46-8e68-61ab0de57cfa,producto 2,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria3,category1,8793.01,5749.68,11,Office Depot
+483a5766-a835-43c8-9354-53be7cbe294c,producto 3,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria3,category1,4658.19,9280.81,06,Amazon
+829e3c0e-2d38-401f-b2dd-23a2a160db22,producto 3,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria3,category3,758.31,6103.65,08,Mercado Libre
+cb5d7df2-065c-461d-8700-efde0e50cf2d,producto 1,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria2,category3,4112.02,716.06,15,Office Depot
+2e192c43-3fdf-4458-8156-fee641263cab,producto 1,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category1,8535.92,7219.84,14,Best Buy
+d9add675-4594-47ad-adf2-e8a7cbc61673,producto 1,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria3,category2,800.08,72.72,05,Amazon
+d887a40e-9467-4598-98a7-82689e36b005,producto 3,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria3,category1,3626.18,6970.14,14,Best Buy
+62dd63dc-0821-48df-8dd4-a178ffd443b8,producto 3,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria1,category2,4264.69,6046.89,05,Amazon
+016bbd6c-25b6-4508-81a5-058e4b519aef,producto 2,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria3,category3,8298.18,3445.53,13,Liverpool
+051109ac-e79a-491b-8590-45466a360735,producto 3,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria1,category1,2163.96,4553.81,09,Mercado Libre
+855b63c9-6817-46ef-9963-a594f6cecd1a,producto 1,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria1,category2,9605.59,6389.64,05,Mercado Libre
+01828d5f-41de-4986-975b-7d6d3f328d97,producto 2,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria1,category1,8453.2,4410.24,15,Mercado Libre
+12ab5891-c33f-405c-9973-b29c92f90e2d,producto 2,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria3,category1,353.55,9633.88,04,Office Depot
+dc9c972a-ab0d-4f76-8445-17232c072aca,producto 3,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria3,category1,9566.82,7056.38,04,Amazon
+fd7d4c27-1e9a-42f6-8430-b151a92ba5ca,producto 1,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria2,category3,9453.62,7121.48,03,El Palacio de Hierro
+9e3ed339-028a-4f17-9949-1b6cdb46a78c,producto 2,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria3,category2,110.97,3201.43,01,Best Buy
+95a00f31-9043-4b9e-a7d9-55f5be3ecc13,producto 3,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria2,category1,6622.11,5060.31,03,Liverpool
+5164227d-6561-4e5f-827e-9dfadd3f9422,producto 1,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria1,category2,8165.44,2391.88,06,Office Depot
+ce8df392-51c7-4f92-96df-f727c32a97fa,producto 2,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria3,category2,1064.39,1291.21,10,Amazon
+7220b381-a05b-479f-aa6f-deca7f078bba,producto 1,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria1,category2,9134.35,1817.47,07,Office Depot
+fcefda25-4536-4811-abce-f65269518d31,producto 3,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria2,category2,3125.51,3318.37,08,Mercado Libre
+02bc47bf-2c26-493c-98f8-c25d088b1715,producto 3,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria1,category2,8668.86,1603.62,05,El Palacio de Hierro
+95ad62ff-2848-49bd-9d56-5d868aa376fc,producto 2,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria3,category1,7884.92,6535.09,08,Liverpool
+ac18ba6b-66ba-4cf6-9665-3c609183ae3d,producto 3,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category1,6247.03,7614.79,13,Office Depot
+22f3af59-7f4b-4f3a-8353-5dce4b25227f,producto 3,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria2,category3,4478.19,4541.49,14,Best Buy
+fd510ec9-35de-4b94-8000-17ca36bed75b,producto 2,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria1,category2,3694.52,580.37,03,Best Buy
+0003611d-e8e8-473a-8b04-1b31d9763a07,producto 3,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria3,category1,609.82,984.41,13,Best Buy
+9dbbb618-2b28-4f2a-9b1b-2080f8ca6ffe,producto 1,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria3,category3,6309.6,8688.67,15,Amazon
+46c57277-5fb3-40c6-aac7-3f556a24ce0e,producto 3,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria3,category3,822.66,5856.58,10,Amazon
+cafb6278-97d7-4fd8-a215-56374130fe8e,producto 1,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria2,category3,9449.8,9747.15,05,Amazon
+6a772c7b-86f2-4a2f-afcd-ef33b0c1fc57,producto 1,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria1,category3,2684.12,4336.6,14,Mercado Libre
+7ac05f4a-ebb6-420c-ad0b-27efb9df7dc9,producto 3,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria2,category2,5765.32,1790.13,10,Mercado Libre
+0d2e8c9c-f042-446c-ab37-01d7a720804b,producto 3,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria1,category3,8161.81,4656.4,10,Best Buy
+d0f969c9-23e3-43bc-961b-517fdbcf8065,producto 3,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria2,category1,1889.58,4493.81,04,Best Buy
+0d0ea6b8-b895-4450-a4b3-f507d48707de,producto 3,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria1,category3,5704.92,1414.12,06,Liverpool
+baa18632-72d1-4dbb-a1a9-f415b9c32bb5,producto 1,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria1,category1,729.3,8199.45,05,Best Buy
+a8c33f89-a279-4dd4-8421-07076c24a54d,producto 2,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria3,category2,4530.49,6973.4,05,Best Buy
+12a98f34-7f7c-48d5-9962-d3f39addff5a,producto 3,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria1,category2,8301.0,8623.83,03,Office Depot
+29e467f0-fc54-47fd-a545-f5c14b15fbeb,producto 1,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria3,category3,1796.61,4961.81,13,Amazon
+8e2f5df6-f662-4416-bd29-5d0c98965405,producto 2,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria1,category3,3376.4,1766.46,07,El Palacio de Hierro
+72eeb4be-6c5c-4578-915a-96f37b52ec44,producto 2,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria2,category1,7676.1,6111.3,07,Best Buy
+a228c1fd-3bc6-4591-a268-d8f3beb018f7,producto 2,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria2,category3,7848.48,6927.96,09,El Palacio de Hierro
+c37bf024-5860-45f7-b2ce-80c87693a84a,producto 1,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria2,category3,2269.04,103.63,07,El Palacio de Hierro
+e685228f-4932-4ad7-91fd-1f1c0c1f32e0,producto 3,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria2,category3,2927.5,7706.46,06,Office Depot
+5b12ff4b-dd08-45bb-8c47-837e1298b51e,producto 3,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria3,category3,3633.38,9265.55,09,El Palacio de Hierro
+c677ffeb-1c5d-4edf-bde7-9ded84e527b5,producto 1,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria3,category1,3726.75,6484.28,09,El Palacio de Hierro
+532372c9-5c11-4a96-b9f9-6420ca0fd87f,producto 2,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria1,category3,5595.29,5262.97,02,El Palacio de Hierro
+9f15a024-5a03-430d-93ce-b9d4c8968271,producto 2,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria2,category2,452.9,861.65,12,Mercado Libre
+47f91ff2-5ff7-4049-8920-2e565fc6ce64,producto 1,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria2,category2,4990.3,3551.13,13,Mercado Libre
+c387a742-31f7-49ff-9e67-7a3c059809ef,producto 3,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria1,category2,1131.69,4537.5,03,Best Buy
+ee41fb3d-1a89-48ef-a6b6-a94ceb7e9399,producto 3,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria2,category2,4294.98,5157.93,12,Liverpool
+50ba3f63-6a20-4d5c-a80a-1b529343ea66,producto 1,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria3,category3,4939.22,304.34,07,Best Buy
+9715e22e-0e27-431c-9d33-c0c444987105,producto 2,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria3,category1,1696.72,2098.66,12,El Palacio de Hierro
+043cf56c-0eff-4a15-8016-5bfcf0375ab8,producto 1,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria1,category1,9237.09,7832.6,04,El Palacio de Hierro
+8bf0d93e-e4f6-4458-b66b-9fb0a8f60da4,producto 3,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria2,category2,7887.81,2623.45,05,Mercado Libre
+fb97d543-c398-4424-b882-bbbf28fb0e08,producto 3,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria1,category2,6285.68,39.11,03,Liverpool
+faf33434-c70f-423e-b476-1ae391fd96f9,producto 3,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria3,category1,6165.25,6582.82,10,Amazon
+faf619d7-cc2a-4887-a4ac-389499add221,producto 2,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria2,category2,9037.21,4340.49,10,El Palacio de Hierro
+567fea68-13a1-4f16-9265-8df6ccae18aa,producto 2,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria3,category3,1464.11,2205.87,03,Mercado Libre
+adf897c4-3e45-4b2e-b2f0-402b585b1890,producto 1,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria2,category1,5225.66,7879.54,08,Liverpool
+53e264a6-ce0a-4dda-858f-a9cafc560333,producto 2,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria2,category3,3249.32,9982.43,13,Best Buy
+d5dcb3bb-e30b-4c7b-8191-4b5bcb9a92e5,producto 3,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria2,category2,8911.92,1889.21,15,Mercado Libre
+91794c64-9fdc-45b0-897a-7cc63cf872db,producto 2,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria2,category3,3277.37,2827.51,07,Amazon
+9100a74a-d0ae-49eb-89d4-68d503c37374,producto 1,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria2,category1,9029.99,3857.41,03,Liverpool
+73092cf5-c2e9-481b-a54d-e97f367d0092,producto 3,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria3,category3,9680.09,1375.51,03,El Palacio de Hierro
+9182d5e7-6126-481e-8da0-1ca5a2b2a59c,producto 3,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria1,category3,612.67,412.49,14,Mercado Libre
+d80d0257-21ff-4909-86ea-5fc25aaaef96,producto 2,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria2,category2,1381.93,7100.98,04,Office Depot
+2a5fa5fb-cc2e-489a-bd97-03502f934448,producto 2,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria3,category1,2899.52,4039.07,06,Office Depot
+48b443ac-d4a3-4454-b6c1-fda915fcb382,producto 2,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria3,category1,9312.97,1544.08,15,El Palacio de Hierro
+0bab8558-21c3-4043-be9a-d0801b86119e,producto 1,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria1,category3,8046.7,8789.31,03,Mercado Libre
+b9e8ba99-879d-4cd3-9bc5-6fe88c43a89b,producto 2,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria2,category2,4200.69,9291.72,15,Liverpool
+1867e872-9e0b-422b-9d4b-14a7445bca77,producto 3,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria3,category1,7937.9,7347.71,09,Mercado Libre
+c5a8fa48-b560-4aff-80c4-088bd7853c87,producto 2,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria3,category1,3971.99,2023.3,05,El Palacio de Hierro
+247bce28-2b4b-4026-b2a9-3b23c8148b5d,producto 2,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria2,category3,4202.94,6786.37,05,Best Buy
+cd8df161-72d6-4de9-8f43-60fce505fb34,producto 2,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria2,category1,5733.7,7722.51,09,El Palacio de Hierro
+1ae0d549-0d0e-460f-8c79-848c86501229,producto 1,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria3,category3,4256.64,1423.61,03,Liverpool
+8ebcb6a3-0998-42ec-988c-7a8f8ec38ae4,producto 2,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria3,category2,1490.71,5408.15,15,Best Buy
+ae72cb9b-f183-4e22-913c-dfc0c785a2b1,producto 2,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria1,category3,5456.49,9456.58,08,Liverpool
+3bf74ed7-2958-4103-a1ae-29fdc50713c6,producto 2,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria3,category3,6656.23,1081.11,08,Amazon
+6b8da70e-d0d1-47cd-85c5-a252cf5badc7,producto 3,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria1,category2,2398.57,9281.75,11,El Palacio de Hierro
+2b2e04a3-39ab-4fa7-b8dc-504f09a791ab,producto 1,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria1,category3,1859.9,3401.68,15,Amazon
+2725424e-c0a3-4e0f-809a-212b1d98ba58,producto 2,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria1,category3,9586.96,2462.35,14,Liverpool
+2f3024a9-7f46-43bc-82d7-6666a56e1053,producto 1,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria3,category3,2638.16,2378.54,09,Best Buy
+3638bcde-80b9-4a38-8615-462dcae35dcd,producto 3,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria3,category3,5550.55,6522.4,02,Mercado Libre
+b41355dd-0a39-404b-9058-0f4ebdf97313,producto 1,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria1,category2,8405.1,1146.63,03,Office Depot
+8b748a5f-267d-4674-a388-aae83d1475e9,producto 3,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria3,category2,1667.04,43.51,12,Mercado Libre
+3e297da9-cd3c-4e28-81f8-91e225bfd8dc,producto 3,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria2,category3,8691.1,4581.22,15,El Palacio de Hierro
+e5325fee-bfda-4dc1-a66d-eada86a3ffd3,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria1,category2,180.12,8310.74,03,Mercado Libre
+d8719baa-cbaf-4eb6-b1cb-ee205967f898,producto 1,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria1,category2,2868.26,4742.4,15,El Palacio de Hierro
+b791e2db-628c-4dea-b90b-6bedd1fd2412,producto 1,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria3,category3,1306.94,9259.33,10,Amazon
+e3ce5bc3-e92a-4032-ba31-d47dc0f8f92a,producto 1,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria2,category3,7157.11,3162.77,07,El Palacio de Hierro
+bcdca82d-33ed-4a54-8782-587e8333e894,producto 2,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria3,category1,6597.4,2685.38,02,Office Depot
+d3c449cb-573f-4058-8255-e6a801daa84c,producto 2,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria3,category1,7904.81,7897.48,07,Liverpool
+c2e17e87-484d-42b1-aa7e-73fd366d527e,producto 3,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria1,category2,7362.94,3178.04,10,Liverpool
+0c4026fd-2e48-4c44-b138-ac167203ed35,producto 2,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria2,category1,2303.14,2709.33,01,El Palacio de Hierro
+563371c5-c205-455d-b280-17e3e765f844,producto 2,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria1,category2,4195.73,2.56,10,Office Depot
+e62576e1-1616-42f1-89e0-c4d2a18d3522,producto 2,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria3,category3,814.57,132.12,11,Amazon
+d60689b3-1b41-446a-be64-e17a989fb305,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria3,category1,3372.76,7640.2,05,Amazon
+6d7e7421-b0f9-48c7-9e50-a185603595b1,producto 2,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria3,category2,5753.07,3103.11,12,Office Depot
+34258357-0a4f-42b2-8fcf-8c409ef45e99,producto 3,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria3,category3,7691.2,5101.88,15,Liverpool
+8e36e315-57cf-4a70-9a4c-8375349191c6,producto 1,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria2,category2,5970.08,8654.36,15,Best Buy
+83a4c11a-4012-4ad0-a798-2f521e702af3,producto 2,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria1,category2,4675.5,4981.22,08,Office Depot
+74ad8abb-92ee-4099-9a78-27157da579a7,producto 3,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria3,category3,2763.05,6657.62,07,Amazon
+4a2dd9e7-9bf6-4d2c-bb77-57078ba52017,producto 3,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria3,category1,2319.92,984.95,04,Amazon
+d85deb64-fabd-4080-8d4a-9ef3c7e3209f,producto 3,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria1,category1,2657.22,8777.79,09,Office Depot
+2f312a34-9f83-4520-803e-3acda3b17d95,producto 3,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria2,category1,1133.33,11.95,15,Liverpool
+4009440a-3181-4972-bbff-d359732a906e,producto 3,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria3,category3,9220.76,4537.06,14,Amazon
+915fd050-1e7e-46c9-b048-3baeae07a46a,producto 2,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria3,category3,352.12,9544.99,11,Liverpool
+3d54e64f-d564-47ce-a8b5-1210b515dd73,producto 3,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria2,category1,5098.09,7810.21,02,Mercado Libre
+5e827855-db34-46b4-ad5e-89491aa2d3e5,producto 2,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria2,category1,6995.6,6385.33,12,Office Depot
+170545a6-6b57-48ea-8e67-6f03696635b9,producto 1,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category2,319.6,6259.69,12,Office Depot
+4e24eccd-9b93-4cee-9ef1-a1cab344e0a2,producto 1,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category3,8583.31,7368.06,06,Mercado Libre
+3398d22f-1271-4e2e-aab2-b7d00c7ec424,producto 1,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria2,category3,2790.12,9975.45,14,Best Buy
+23858953-b24f-484c-bbac-018f403df524,producto 2,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria1,category2,629.18,4688.89,11,Liverpool
+53faf913-79b7-4689-8c8f-6ca44c316a71,producto 2,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category3,2570.14,3909.97,11,Amazon
+3a2781d2-f6ab-4a37-b030-33930f55555f,producto 2,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria1,category3,4605.46,1561.18,01,Office Depot
+0107a0f8-3db4-49dc-9558-0423bdc3eb6b,producto 1,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria1,category1,5213.95,4961.37,13,El Palacio de Hierro
+a5f4c35e-d3bd-4ca0-a7ad-b65c90163587,producto 1,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria3,category2,6854.84,9096.38,09,Liverpool
+1d5c54e5-3634-46a9-80e6-fbb922d4d190,producto 2,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria2,category3,841.29,81.06,04,El Palacio de Hierro
+71e23895-84a3-41d2-90e1-60fc4553e7aa,producto 1,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria1,category2,5123.47,1408.95,08,Best Buy
+36856dd6-6d3b-412d-9d82-60156fd32cbe,producto 1,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria3,category2,2519.85,6256.18,13,El Palacio de Hierro
+18642bf9-431b-4e34-bb9d-d0eaea7dbbf9,producto 3,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria2,category2,1675.7,4570.08,10,Best Buy
+7ad77595-1c6a-4b05-a863-0fa5c9769e6f,producto 1,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria3,category3,8052.01,2114.04,07,Mercado Libre
+79eb5511-3532-44e8-b176-baa1e624360a,producto 2,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria1,category3,6346.51,5422.29,10,El Palacio de Hierro
+25b2a533-8157-47d7-b407-e12b85dc5595,producto 2,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria1,category2,7135.57,2138.95,11,Amazon
+88ba2306-1ffb-492b-a777-e14a682cba8d,producto 1,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria2,category1,6057.26,6631.29,12,El Palacio de Hierro
+a038b426-de4b-4eaf-93e6-82bd80cfbfa2,producto 1,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria2,category3,8840.6,7624.99,15,El Palacio de Hierro
+2dd95d6e-4847-4608-b636-885c2650c2c9,producto 3,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria3,category2,802.6,7624.71,11,Best Buy
+6bb41aaf-5ef2-495e-9de2-9da6490c223f,producto 3,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria1,category1,3010.67,2392.31,08,Office Depot
+acaee9ae-1df0-4805-bdee-b3c02acf3480,producto 1,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria1,category2,7480.98,492.1,05,Best Buy
+d8799de0-50ad-44ba-812c-8d590c7dc24c,producto 1,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria3,category2,5900.56,6787.82,03,Amazon
+151583f9-9a0c-4ac0-9977-05ed1c3e5f1f,producto 3,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria3,category1,6332.02,2187.53,03,Amazon
+078a4335-5420-4fad-bb8f-81f6def26d1f,producto 2,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria3,category1,4316.53,6638.71,09,El Palacio de Hierro
+c69c2cdb-c6ac-44b1-b90c-cd739dfdcc04,producto 1,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria3,category2,6293.84,8616.3,08,Amazon
+fee3afb6-4db0-432d-a7bf-97ae8acf3e4c,producto 2,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria2,category2,8853.42,9321.67,04,El Palacio de Hierro
+9a26f6ec-ee7e-4d55-9a47-f16cd975b4be,producto 2,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria2,category2,6759.54,687.17,01,Office Depot
+cdab2222-f2ae-4c15-8fb9-ce83c0962f1b,producto 1,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria3,category3,8155.54,9914.93,03,El Palacio de Hierro
+93bdbe3e-50c4-4b45-bc69-37f79c7f602b,producto 3,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria3,category3,1184.16,5532.84,07,Office Depot
+0c249152-346b-4fdd-b819-4723c1ca0ad6,producto 2,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria2,category2,5200.21,7467.39,08,Office Depot
+eb1cb444-ab67-4677-94ce-f49fad3de7a7,producto 1,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria2,category1,5186.15,6284.09,11,Mercado Libre
+6f0e5016-c52a-49ea-8abc-8c03fdddbeb5,producto 3,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria2,category3,7079.78,2482.59,02,Office Depot
+32f92e42-0b1b-491e-96c5-32c901757cfa,producto 3,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria2,category1,6667.05,2680.19,08,Liverpool
+12251e2c-116d-4d33-8dbe-84ed4d36da80,producto 1,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria3,category3,5911.85,8486.14,05,Best Buy
+739cb952-1d63-4ce4-a5ca-92298da2b4e6,producto 2,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria2,category3,2534.89,9079.17,13,El Palacio de Hierro
+18062ef6-c547-4576-8b32-084e424a8511,producto 3,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria1,category2,7029.94,3116.33,11,Mercado Libre
+0cd7d1fa-3781-4771-89d8-3153e89be9bb,producto 3,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria3,category2,9561.37,8067.03,03,Amazon
+faa2388a-bcfd-416b-8f91-8688bdb1ac30,producto 1,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria3,category1,2864.94,1184.1,15,Liverpool
+100ac9de-61c3-4fcb-af27-faf9e7e8f5f0,producto 2,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria3,category2,1147.47,5043.06,11,Liverpool
+349b0fa4-d9fc-43cd-81a3-0f15539b0f82,producto 2,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria2,category3,3196.56,3372.27,03,El Palacio de Hierro
+6e06c88a-fcd7-4d8a-b6f5-e9fc308ec332,producto 3,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria1,category3,7928.6,3544.73,07,Mercado Libre
+435c7e0c-f802-45a1-8b05-61c0773b3460,producto 3,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria3,category1,5867.44,9728.95,02,Mercado Libre
+334a9a8d-6307-4644-92f9-3ee0aada5646,producto 1,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria1,category1,5866.21,9138.58,13,Liverpool
+5c65b6af-ac0a-495f-a06c-e0475fc1bfec,producto 1,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria3,category1,3253.08,4614.64,08,Office Depot
+d75373bb-7f50-46ab-88fc-8d2fab82fdcf,producto 1,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria1,category1,7777.86,5124.9,10,Amazon
+4ceff187-5cf1-4070-a0a4-5b667155584b,producto 3,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria2,category2,3763.61,405.75,01,Amazon
+2e18b080-3d67-4745-b4fa-d721d80654c3,producto 3,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria2,category2,6773.53,738.96,01,Best Buy
+8481a7b0-cb1b-46e7-b7d3-474ddcd92d88,producto 1,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria1,category1,6948.52,3347.18,04,El Palacio de Hierro
+d80f3a78-cf46-4b08-bcf2-6b66c88efd01,producto 1,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria2,category3,8186.46,8607.45,08,Mercado Libre
+bca267bb-5540-4867-8def-964e2456ef06,producto 2,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria1,category2,3971.86,7666.68,02,Office Depot
+4a5e69c0-ff12-4505-b278-e448e28fc4fd,producto 1,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria1,category2,7422.96,2265.67,02,Best Buy
+995e4301-350e-441d-b4ab-dd73c0e0c8f4,producto 2,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria2,category1,8833.67,3071.5,05,Mercado Libre
+2cdbf52e-e191-404d-8969-251b633264f4,producto 3,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria3,category1,8344.39,1453.19,03,El Palacio de Hierro
+75fc5d2d-41ed-45ae-ae99-8cfc562ee6d2,producto 3,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria2,category2,7.77,6826.76,15,El Palacio de Hierro
+c1d0b8ef-6583-4f3f-b552-3b08940a76a3,producto 1,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria2,category2,797.86,7294.87,06,Liverpool
+87d0e3dc-c18f-4d03-b11b-f921aae477b2,producto 3,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria1,category3,6721.46,4531.64,15,Office Depot
+77ac468c-4e03-4e58-be53-726642227d00,producto 2,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria2,category2,9577.36,2902.13,03,Best Buy
+cf28edef-b8c6-4d68-ae08-67cbbcebd2d7,producto 3,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria1,category2,5130.57,1701.39,06,Amazon
+05e0ad0e-5bdd-4127-8e95-9b0d41be0ac2,producto 1,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria2,category2,1330.03,336.77,04,El Palacio de Hierro
+ca4e5f90-2c91-4ed5-8986-c9f6c4dc6088,producto 1,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria1,category1,6647.54,4178.77,10,Office Depot
+0521051c-ed5b-47a6-b434-55c06ac8d414,producto 1,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria2,category3,5782.15,3972.27,01,Mercado Libre
+931ebd60-f9f9-4f77-af7b-0ca15c22acec,producto 3,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria2,category2,8809.75,7388.52,13,Amazon
+dafbf495-0b2b-4ea1-a123-cb28a69538d4,producto 2,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria1,category1,1252.33,4025.48,07,El Palacio de Hierro
+da77c36f-c827-4fc1-9d61-279446fee065,producto 3,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria3,category2,6842.81,8104.89,06,Amazon
+a0afb5f4-e51e-4f4f-b924-ba86f5018e7b,producto 3,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria2,category2,4672.74,3605.71,03,Best Buy
+a53ad727-fc54-4b4f-98d1-0698002ec603,producto 2,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria2,category1,2107.42,8786.01,05,El Palacio de Hierro
+bf2645db-e60a-44f9-b42c-a9c0c3dea193,producto 1,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria3,category1,2964.22,5886.5,15,Mercado Libre
+1c14af6f-eed8-4bef-9a8b-fc6a36dc9d39,producto 2,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria1,category1,58.17,2486.96,05,El Palacio de Hierro
+c7589835-0a7a-4d1a-8318-0d3bf11ebf29,producto 3,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria2,category1,413.01,3668.83,06,Amazon
+d9a9cad3-01af-4691-a0db-fbfe642643b5,producto 2,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria2,category3,1569.2,9114.24,03,Liverpool
+b6602672-48d7-4aad-92a7-e85b390de7f1,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria3,category2,7974.15,5741.82,13,Best Buy
+6d3875d0-6a23-4a5c-99e6-c60830854f26,producto 1,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria2,category2,9509.16,4945.65,05,Mercado Libre
+65b3e5b2-fc36-4bd4-8560-067622d1dc08,producto 1,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria1,category1,6263.08,8984.42,02,Best Buy
+39f455dc-80b4-4e11-a1d9-5fccc52ef5c3,producto 2,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria1,category3,2450.79,8010.81,04,Best Buy
+9c906421-65d2-42c3-b873-6b55c1877088,producto 3,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria3,category2,4895.26,2224.09,03,Office Depot
+cb766014-2288-415c-a8fc-719465db2afa,producto 1,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria3,category3,6814.78,4817.52,13,Mercado Libre
+e697ad49-e14f-48d7-b66b-1eec9d084584,producto 2,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria3,category1,7867.95,8068.65,13,Liverpool
+b78cb84f-8278-4d2d-a542-35667bcff528,producto 3,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria2,category3,5209.47,6678.96,05,Liverpool
+312606f5-a933-4ef1-bc99-1f9117986b33,producto 2,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria1,category1,7612.06,763.22,04,Best Buy
+98c12a69-347d-42a4-83b2-e876573d70ce,producto 2,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria2,category3,2288.21,7361.43,13,Liverpool
+69380db8-33b3-444a-a61b-9d54b83f2f4e,producto 1,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria1,category1,5906.67,2746.63,12,El Palacio de Hierro
+caacd1d7-e338-4c20-9e20-9bd61b9299f8,producto 2,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria1,category1,8832.04,2287.02,03,Office Depot
+5c6ed4b1-18f1-4142-a1c6-1c7123da0dc8,producto 3,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria1,category3,3920.18,220.07,02,El Palacio de Hierro
+4f60c9ba-b87a-4251-a70e-1c4442ae3a56,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria3,category1,5893.5,526.36,06,Office Depot
+c39177f6-27f3-4c05-a9e6-0393b41f188c,producto 2,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria1,category3,5131.83,1672.45,01,Mercado Libre
+bc4b1c8d-92ea-4c84-9cf1-e1754c316934,producto 1,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria3,category2,5274.03,288.4,04,Liverpool
+eaeb8ae8-2d74-4a94-b110-5e83ba667cfc,producto 2,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category3,4185.23,5053.37,01,Mercado Libre
+968708a7-220f-435a-9df8-126a84ac5a78,producto 1,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria1,category2,4430.17,5623.18,07,Best Buy
+67adeb7b-0749-4b5e-812d-c9c89a2c1be2,producto 1,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria3,category2,8716.36,1444.0,05,Mercado Libre
+6293de48-49d9-402b-bb3b-1836d40233e8,producto 2,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria1,category3,7377.26,173.94,07,El Palacio de Hierro
+da6d241b-87ed-4aa8-9d86-5bf18e04899c,producto 2,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria2,category3,8610.44,4896.13,11,Mercado Libre
+f1db0912-fb59-436b-96f6-8ea737bc08f0,producto 2,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria1,category3,3984.44,5587.54,12,El Palacio de Hierro
+b70ec76d-72d8-4d40-b38b-59663744dcc2,producto 2,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria2,category2,2367.0,5312.16,02,Amazon
+c5b1be75-94bb-4652-93ee-fe44ff9312d9,producto 2,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria2,category2,783.2,5580.45,02,Office Depot
+7485ad97-653b-4834-af41-447afa1fffd3,producto 1,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria3,category3,5983.98,129.84,10,El Palacio de Hierro
+d53d1e2b-4173-4f21-81ee-8ade7525f39a,producto 3,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria3,category1,2212.55,8834.21,01,Amazon
+8c04a931-33eb-43a4-afa1-c63f6e0c5e0a,producto 3,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria2,category3,8172.82,7855.78,09,Office Depot
+288a5399-8dd7-408b-9368-0f2e49de9cbd,producto 2,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria2,category2,1971.91,1956.02,02,Mercado Libre
+2a49df0b-babe-4f37-9248-8620b38b79fd,producto 1,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria2,category3,9784.85,7831.62,12,Liverpool
+ca9ce693-1b78-4f5b-90f9-9a25da4b925d,producto 2,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria3,category2,9466.15,9484.34,08,Office Depot
+6876a062-f11f-4f30-b3a9-2eb6060b7aa3,producto 2,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria2,category1,8649.8,1385.51,03,Office Depot
+0585af6b-6223-42aa-8c6a-d93df831d6e9,producto 1,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria2,category3,7494.11,1176.83,09,Amazon
+bbe7e399-305f-45b9-b360-c0f11e8758b5,producto 3,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria3,category1,4499.06,3920.71,09,El Palacio de Hierro
+926c1f26-ee66-44f5-a42f-ced55f3442b5,producto 2,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria2,category2,1966.17,3950.26,11,Best Buy
+545f0eab-f52f-4296-8c96-ddd2f46c991c,producto 2,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria1,category2,7527.53,7269.36,08,Best Buy
+57fb2fa1-7105-4d0d-b31a-f6fff9cbead2,producto 3,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria1,category1,1725.33,1812.34,06,El Palacio de Hierro
+0853af0a-2c1e-4ea3-9abb-9774d9def3a0,producto 2,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria2,category3,4130.66,8448.51,01,Office Depot
+4b625a11-7389-4934-8c61-47c51c298364,producto 1,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria2,category2,4120.8,8563.99,07,Amazon
+043005a5-ceaf-41bd-9a71-9981d0735e7e,producto 2,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria3,category3,4136.45,6448.22,08,Mercado Libre
+5b01d117-bf15-410b-9245-097a5b70567f,producto 3,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria2,category3,1698.21,9644.65,12,Liverpool
+7c45ecb5-be78-456c-a13c-dfe0befc0beb,producto 3,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria2,category3,2021.14,7460.47,02,Liverpool
+ae24676d-be50-4402-a212-32e3983ca4d8,producto 3,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria1,category2,9430.72,4272.58,11,Office Depot
+44cf3405-180e-44d1-9f5f-1e5b53263b26,producto 2,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria1,category2,8719.46,9388.97,10,Office Depot
+60c462c4-f23f-4c1a-bb69-9b2014adc2da,producto 2,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria3,category3,2180.14,3663.32,10,Liverpool
+0b78ca65-47b9-4783-9c99-1ebbe76957a6,producto 3,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria3,category2,9400.9,5695.94,03,Liverpool
+fc0fb0d9-293e-472b-a67e-bd11c4c4ee5b,producto 1,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria2,category3,5996.33,8114.38,10,Amazon
+bec233d3-612b-4331-94e3-c077ee838413,producto 2,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria3,category3,6553.46,7060.21,11,Office Depot
+0e9394eb-782f-40a5-b0f0-90a802808d34,producto 3,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria3,category3,4170.05,4703.55,08,Office Depot
+e07f77b9-f721-4213-b0f2-01687ea0774f,producto 2,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria2,category2,7953.68,3349.62,12,Best Buy
+779085f4-d836-4855-892e-6a466c686389,producto 3,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria3,category3,1380.72,9451.65,05,El Palacio de Hierro
+2026ff73-0fe4-45ea-a788-a85b855bd4fb,producto 1,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria3,category2,877.84,6416.92,07,Liverpool
+8c94a09f-b379-4620-8219-800460858111,producto 3,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria2,category2,1291.53,5133.42,15,Liverpool
+a7f25f2d-beab-431c-ae45-eaec8656dff1,producto 1,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria2,category2,6109.02,23.11,06,Mercado Libre
+23420a92-b8f0-44fe-af94-56fded72c723,producto 2,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria1,category1,2660.25,8261.86,12,Liverpool
+87eda96f-0adb-41d3-8bd0-cd10dd9506fe,producto 3,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria3,category2,8516.51,2536.95,05,Best Buy
+1201ce65-5278-4f0d-9e3f-064e412e7bef,producto 1,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria3,category2,8148.51,7079.4,11,El Palacio de Hierro
+4dcff0e2-5da8-473a-aec4-149d8de6b308,producto 2,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria3,category3,2466.22,6150.61,10,Liverpool
+abbb5eec-824d-4157-bb83-983423d7dd68,producto 1,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria3,category3,5403.35,3477.94,02,Amazon
+4aa7d65d-3106-4092-b14c-26a8d8b88295,producto 2,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria1,category2,8626.98,7451.86,10,Liverpool
+b707d1b7-f7ea-4ecc-93cb-2ec042f2353b,producto 1,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria3,category1,5662.36,479.76,03,Amazon
+79f96246-ee9d-479a-8cb0-d06dfe5e056c,producto 1,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria2,category3,6288.3,5068.9,07,Amazon
+f6c9cd63-f98e-42b6-8e2b-5f7fb21d2a8c,producto 3,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria2,category3,5882.91,2397.55,11,El Palacio de Hierro
+13d3e1ac-6128-4f0a-8deb-d7c52cd92692,producto 2,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria3,category3,9778.93,9147.34,15,Mercado Libre
+2bf652e3-69e2-46f9-9659-ff345988d774,producto 1,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria3,category3,8754.38,3320.64,03,Office Depot
+01016b91-e68d-4dfe-bd40-3a2157326d39,producto 3,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria3,category2,7635.74,685.5,09,Liverpool
+0178a4ec-0ffa-4598-a01e-ea36a62ba35f,producto 1,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria3,category2,6219.84,1049.73,01,Best Buy
+6b2f2abd-3c48-4243-9e9b-362c0bbdf30c,producto 3,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria3,category2,3218.29,6010.26,05,Amazon
+8fc61c76-1a83-401e-a3f9-b9b128b13609,producto 3,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria2,category1,7454.26,1392.85,14,Office Depot
+56afbd74-540c-4942-87ca-918f11327a6d,producto 3,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria2,category3,3252.48,2373.73,11,Liverpool
+e5c16187-5134-40a1-81ed-aa24d0c2b4a4,producto 2,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria2,category3,3717.02,3195.18,04,El Palacio de Hierro
+7f217c75-718b-4132-bc13-49ec37ce4ad2,producto 1,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria3,category3,5493.97,1491.01,05,Mercado Libre
+9b9e4103-88d3-4b0d-8a0f-e824024aa25f,producto 1,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria2,category1,417.76,8573.97,12,Mercado Libre
+143be101-b9ad-414c-8d62-f2914870e674,producto 3,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria1,category2,9394.73,1354.41,01,Best Buy
+93f6334e-f11f-4c72-95cf-9645de1f1676,producto 2,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria3,category2,1563.37,6087.2,05,Office Depot
+d184b2ef-29fd-468e-a6d4-d7671c8abe90,producto 3,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria3,category2,8138.96,209.72,08,Amazon
+2c175751-1dd3-4de1-8204-04070a59d510,producto 1,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria1,category1,993.38,734.78,02,El Palacio de Hierro
+b38f1abc-e42e-4a62-aa05-f8ce7d0efe4f,producto 3,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria3,category1,6244.73,3474.55,07,Liverpool
+80572937-2f9a-425e-90ce-7a6080b4e0a2,producto 1,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria1,category3,4841.98,325.45,11,Best Buy
+eba8577a-0188-46d2-9dee-910104ea49b8,producto 2,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria1,category2,3511.7,4016.26,11,Best Buy
+a3a6e382-aecf-4e5b-b953-15a91eacc895,producto 3,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria2,category3,4612.09,662.42,07,El Palacio de Hierro
+22f66174-dd4f-4860-9491-f97f2864b7d7,producto 3,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria3,category1,2872.43,5006.42,04,Office Depot
+61b7e3ca-7aed-4759-b75a-929a7b831b8f,producto 1,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria2,category2,1451.43,3232.43,09,Best Buy
+c6ddac85-470c-4505-91f8-a376e0d51ebf,producto 3,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria2,category1,6678.01,9542.79,04,Mercado Libre
+69f3b7e4-3b45-4f0c-8608-07c5b1775116,producto 2,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria2,category2,5491.74,8047.99,05,Best Buy
+9b92aafd-e196-40a3-b634-18af2fecef86,producto 3,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria3,category3,3881.13,2094.71,12,Office Depot
+4afa060f-15c0-4b77-829a-ec5a727d9eda,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria3,category1,7887.37,3857.54,05,Amazon
+e47b6333-9328-44a7-a0e3-e9d0535b2685,producto 1,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria1,category2,948.11,7336.68,12,Mercado Libre
+b020f2f8-a145-494b-b8e2-a2d1dca28dd6,producto 1,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category2,5955.73,3902.27,04,Best Buy
+65d77d9d-d9c2-4317-b872-13d2adbede65,producto 2,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria3,category1,170.44,8261.56,03,Office Depot
+10842dbc-8f4f-491b-a11f-0572e46e9bbc,producto 3,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria2,category1,9787.16,749.99,10,El Palacio de Hierro
+fe56d387-060c-4307-a91a-4a32d83afc30,producto 3,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria1,category1,2228.31,3224.41,08,El Palacio de Hierro
+5ddaf41b-e02f-4f14-afb5-c550bbe53e2e,producto 3,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria3,category1,3136.1,3908.94,03,Office Depot
+bff73c9d-7ef6-4560-9759-494655cf3cb0,producto 3,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria1,category2,937.96,9209.97,11,Best Buy
+53671c4b-4a38-46af-877b-37efa9b0fa77,producto 1,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria2,category1,4589.42,3400.86,07,El Palacio de Hierro
+0757c7da-d8e5-43bd-a120-1d9f6374804a,producto 2,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria1,category1,3466.28,2781.05,10,Best Buy
+9f1aafaf-4e1e-4003-9047-fc19a1430fb8,producto 3,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria2,category2,9155.25,6647.74,05,Amazon
+99b0a4c8-0b34-487d-935b-789339c11079,producto 1,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria1,category2,9081.79,318.21,03,Office Depot
+8bcb8fe9-0c19-4468-8ead-737e0f3e78ed,producto 2,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria3,category2,505.14,9762.34,03,Mercado Libre
+6920d386-c044-445f-9826-ec2a8a84a8a9,producto 2,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria3,category3,1919.62,9695.72,09,Office Depot
+7a0fd245-a822-4c56-92d6-a7ab2bdca234,producto 3,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria3,category1,1429.18,8710.69,07,Liverpool
+712f057e-be17-43bf-ac2c-1a9456c22368,producto 1,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria3,category3,3983.59,2411.09,09,Best Buy
+33bff275-5529-47ce-882c-4ffd1f1e72d0,producto 1,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria1,category2,5073.89,8703.49,14,El Palacio de Hierro
+620e1cd0-4c02-4857-829c-add083b0dcdf,producto 2,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria2,category3,119.23,6311.98,11,El Palacio de Hierro
+0d1bde68-c269-4dd5-9962-4ecbcce39454,producto 1,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria2,category1,7533.56,9491.5,04,Mercado Libre
+6004a123-2f9a-41dc-9189-750454af0f92,producto 3,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria3,category1,3732.87,3441.69,03,Mercado Libre
+f721b25c-a953-47d2-8f9a-45fbc4579956,producto 3,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria1,category1,2256.42,4156.39,01,El Palacio de Hierro
+21e26835-9e8b-479a-b334-30f70f0edf0f,producto 3,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria1,category1,2164.56,7188.76,14,Liverpool
+3be114a4-9eb8-4701-8aed-f6ef30af58f0,producto 2,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria2,category3,8058.27,9963.8,05,Amazon
+0108cf45-4b63-4211-ab01-c5a0cf0d9f40,producto 2,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria1,category3,5570.09,6950.96,07,Amazon
+2cc37a78-bc98-4807-972a-3c57e4169e89,producto 2,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria2,category1,3732.3,137.08,15,Liverpool
+a8a78242-68bc-44dd-85d2-0fbdbba8382a,producto 1,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria1,category1,9488.44,7771.24,12,El Palacio de Hierro
+5e695302-cce1-48c6-8461-838ce7c307cc,producto 1,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria2,category3,1107.21,7431.88,09,El Palacio de Hierro
+4272f9bd-47be-4907-b0c5-beff345b0d61,producto 3,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria2,category2,4361.48,3443.38,07,Liverpool
+473655b8-4faa-4be2-970c-0c2570e30ef6,producto 2,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria1,category1,5123.62,1164.7,02,Mercado Libre
+3d9ead4d-08a9-40ed-893d-c9eca530a99b,producto 1,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria1,category1,2671.48,1044.73,09,Amazon
+6b410df8-2cf5-478c-9d88-d9e3919280b5,producto 2,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria3,category3,5212.36,3126.98,15,El Palacio de Hierro
+c1f8c80e-c999-4c1e-9f09-6a5d4a518c25,producto 3,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria2,category3,996.65,5898.19,05,Best Buy
+2098011a-6db4-4338-b9b0-3fe16ab81ed0,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria2,category3,8881.88,4974.12,03,Amazon
+17797495-684e-4928-a390-ddfe21e374dd,producto 3,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria1,category1,8344.52,2722.26,08,Office Depot
+f31fca2b-1f66-46b0-9a89-f140cd2292ae,producto 1,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria2,category2,1526.43,3814.5,10,Mercado Libre
+4b04b7c7-da9a-4966-9fff-ff3e8033ecdc,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria1,category3,1139.23,4336.1,15,Office Depot
+2ed265a6-1a79-41e6-8fbd-b59898471bae,producto 3,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria3,category1,7997.23,8755.96,04,El Palacio de Hierro
+82bd34ad-997e-45fb-a522-a5969ff8fc82,producto 2,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria3,category1,2742.51,153.98,05,Mercado Libre
+1ff37f24-8872-4a6a-9eef-1d617dbc9ce0,producto 2,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria2,category1,5120.63,4481.82,07,Best Buy
+27649379-a4a8-4df7-931a-dddd89900d1f,producto 2,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria3,category1,1336.95,5214.64,11,Liverpool
+397b97ad-ce40-43fe-8ae3-d1f7d581e264,producto 1,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria1,category1,2042.49,9328.48,11,Best Buy
+b8f82010-c49c-48a7-ba87-dcf03ae9831a,producto 2,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria3,category2,6005.54,5520.64,10,Mercado Libre
+bdd11ffc-b2ee-4eba-9353-e9788100c709,producto 3,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria2,category3,7774.52,1364.83,14,Liverpool
+4bf586b0-f3f7-4e1a-ab9e-4ebd74473650,producto 3,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria1,category1,1003.37,4356.2,12,Mercado Libre
+89c1d020-3a6f-4c49-b4e3-ca3eba886a48,producto 2,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria3,category3,4432.69,4813.15,11,Liverpool
+5b4646e7-ec1c-41cb-9dd6-8e1fb545a902,producto 1,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria2,category2,7836.96,5692.37,13,Liverpool
+4fc98084-387e-46e4-9ecc-6eb606ddc57e,producto 3,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria2,category2,3358.57,1054.68,03,Office Depot
+103bef36-1526-44e4-9471-1bef76681988,producto 3,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria2,category3,8434.95,8920.45,15,Mercado Libre
+4a54c0b1-ad29-43a7-b8e6-902cd8e37572,producto 3,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria3,category3,5839.91,8118.47,01,El Palacio de Hierro
+89062840-01f6-4823-9c90-02eb5d38d8d1,producto 2,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category2,5920.93,101.25,14,Amazon
+cad66628-8d6b-4b01-b3ae-b2a81b6b554b,producto 1,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria2,category2,439.91,7519.77,08,El Palacio de Hierro
+4f75f65f-8c0b-4c89-8b0b-d1e77082e609,producto 1,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria1,category2,4890.35,8562.9,01,Mercado Libre
+eb8a9c28-a11b-4dad-831c-c790157c59ec,producto 3,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria2,category2,3741.33,5893.93,03,El Palacio de Hierro
+d25b45c3-ce32-4711-9925-fe59bea6beb2,producto 3,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria2,category1,2318.74,9253.02,11,Office Depot
+12371473-355c-4e38-b70d-dc4c7c31cb57,producto 3,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria1,category1,6194.01,7788.19,07,El Palacio de Hierro
+d5488e12-eb40-4893-92d1-8efe68b06341,producto 1,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria3,category3,8596.08,487.7,01,Amazon
+69171982-9162-4149-9ce4-fd68150eae29,producto 1,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria2,category3,9554.36,9354.28,07,Best Buy
+d93e33d3-a492-4875-b96b-fa3168006b37,producto 2,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria2,category3,1059.74,8164.2,02,Best Buy
+8430c605-dbad-458f-a2ba-52bd77f6454e,producto 1,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria2,category2,5867.86,8255.32,07,Office Depot
+d97d86ae-8cda-4bdd-b958-e50d79fff0f0,producto 2,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria3,category3,4129.32,7240.74,05,Best Buy
+e559284f-2014-4b69-9071-109263c849ca,producto 1,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria1,category1,239.12,9728.53,15,Amazon
+4efe5561-e0e6-446a-a3a4-5d1569e6ecb8,producto 3,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria2,category1,2484.48,2220.11,07,Best Buy
+643754d4-2e82-46cc-83db-821701f04330,producto 1,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria3,category1,2985.45,5804.16,07,Office Depot
+ce6441e9-84ac-4ae7-a6b5-c1822de0226d,producto 3,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria3,category3,6676.18,2738.62,05,Mercado Libre
+461e0fc7-73b0-4ce8-9fc9-6fb4d2aeaba7,producto 2,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria2,category1,8277.56,3159.35,09,El Palacio de Hierro
+b724dcea-51aa-4ad7-b7f8-b4db6267ecbf,producto 2,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria2,category2,7258.35,3332.31,14,El Palacio de Hierro
+bb6cb72f-c9ca-42e7-9220-2f52ed101d45,producto 1,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria2,category1,8029.3,5475.7,08,El Palacio de Hierro
+7b51d5c1-6aa1-4bdc-9d52-3d016c1b0d7b,producto 1,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria3,category3,572.29,5037.01,14,Office Depot
+12108af2-4ee9-4a3d-94ee-272cd4363dc5,producto 1,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria1,category2,8793.24,8303.14,11,El Palacio de Hierro
+2a977ff3-c827-4b51-ae3a-485b2368e21e,producto 2,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria1,category2,9913.43,6323.88,08,Amazon
+94b7def9-d0c0-4a33-b8a7-4778bfe5d0d4,producto 2,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria1,category1,3584.92,383.5,07,Mercado Libre
+883d9e4d-085f-4dde-a847-b5bdcdb6e2cf,producto 1,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria2,category2,1046.58,9437.27,09,Amazon
+585caeb4-f9e0-43f0-b82e-4f29d94e3c87,producto 3,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria3,category3,1125.73,4511.35,11,El Palacio de Hierro
+2ccd941b-a67c-4cc2-8053-794ab498a831,producto 3,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria1,category3,6369.17,900.94,01,Liverpool
+69f1b96c-ab0a-4bfd-b844-6487b55ed809,producto 1,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria1,category2,5870.95,970.79,11,El Palacio de Hierro
+55b81634-89d3-4d04-a591-d0819ff0dbd5,producto 1,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria1,category2,5619.7,7625.97,11,Best Buy
+9b3be222-614a-49d4-bd87-ad2f014dd898,producto 1,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria1,category3,3855.25,4500.71,01,El Palacio de Hierro
+6f476b41-81d1-4b20-a5ce-9e9c075c68b5,producto 1,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria2,category2,6456.07,6818.5,07,Office Depot
+e6ab89d3-d9b3-40b1-9f91-6a65fb2deee7,producto 1,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria2,category1,1086.96,2174.29,03,Liverpool
+14264743-4826-464b-a83a-2d0525156f2d,producto 3,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria1,category1,29.35,1981.71,08,Amazon
+d8915d86-c7c7-4a66-b626-d5c9dee91d7c,producto 1,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria2,category1,6062.66,7264.13,14,Amazon
+aa1ffbd2-2524-41f0-bf5e-6183fa35fa0e,producto 1,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria2,category1,2908.91,5955.52,07,Amazon
+811e102c-5555-42f8-ace7-f9b9a262229a,producto 3,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria1,category2,2582.96,4289.54,06,El Palacio de Hierro
+a600bde8-9a6c-437a-a319-16866f14bcf4,producto 1,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria3,category1,6746.32,5883.48,15,Liverpool
+a52682e5-28fc-4934-94f4-4e84347847dd,producto 1,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria3,category2,6011.76,7955.4,05,Mercado Libre
+01e39092-7eb4-465d-b66e-0ca0e77366b5,producto 3,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria2,category2,1793.39,9314.88,04,Amazon
+94155c7b-95a7-4646-a1ae-cde0330b895e,producto 1,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria1,category1,9042.08,4239.54,01,Office Depot
+d3c14338-d5a3-4af0-85b9-838e506a5622,producto 2,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria2,category3,559.4,5507.47,13,Office Depot
+f8833a67-6c40-4632-9f2e-abb50b1afdfa,producto 3,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria2,category2,4554.22,7284.09,14,Office Depot
+8c43a981-41d0-41e4-b1f9-074211e58876,producto 1,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria3,category3,7285.57,9933.48,14,Amazon
+2c4e452f-77de-4a78-b22c-eadbfed14e4f,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria1,category1,2405.51,7009.73,07,Mercado Libre
+c2ec5e80-5e88-470e-95c3-0a27f0776e38,producto 3,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria3,category2,8683.91,9714.45,03,Office Depot
+1bf6d75f-5a56-4548-b6b1-e7625e85760a,producto 3,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria3,category1,2938.98,7198.52,15,Best Buy
+361129f2-a27a-43b0-9358-a6c4b7be113b,producto 3,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria2,category1,9554.95,3595.79,12,Mercado Libre
+56030f9c-2d70-41e1-a639-877363a7a779,producto 1,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria2,category1,2540.13,5566.47,02,El Palacio de Hierro
+49acca6d-a5b1-4ef6-bcf0-6576f083731b,producto 3,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria2,category3,8009.65,1866.35,13,Mercado Libre
+40abaa16-e997-4305-8b01-3556c27a950a,producto 3,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria3,category3,551.39,8485.14,02,Mercado Libre
+4839f1be-3645-4bc7-ab65-6b721754136c,producto 1,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria3,category1,866.87,7019.98,09,Best Buy
+5296bcd6-8157-4037-8ce9-bb25f9ee3bc0,producto 2,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria3,category3,1248.77,6015.48,07,Amazon
+e2ddf5cf-9980-4ec1-810c-5cf9423d3f15,producto 1,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria2,category1,6709.1,5052.9,07,Best Buy
+b5fd5ce5-f9ce-4693-9f27-1c2d26da564e,producto 3,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria1,category3,9640.44,1144.63,11,El Palacio de Hierro
+df10aeaa-3a5b-4fcc-b7d9-6f72f1b99d84,producto 3,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria2,category1,4097.47,5832.09,04,Office Depot
+afde4ebe-4a4b-43b6-be99-f7793094cf66,producto 2,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria1,category1,8555.21,5699.89,05,Mercado Libre
+3a687a4f-0aa5-40d1-813b-0f3fcbb2989f,producto 1,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria1,category3,7869.23,7293.93,02,Amazon
+283ca49b-193e-4c98-97d2-f62647a7daa8,producto 3,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria2,category2,3208.54,4282.97,03,Best Buy
+4d505173-ee16-433a-ad6e-fced3c8b3909,producto 1,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria2,category3,6332.29,8248.07,08,Amazon
+312f6448-0604-4859-a04a-a4eb45138adb,producto 2,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria2,category3,6134.06,381.2,05,Amazon
+1e12785b-d32d-4d14-8d80-58f9203e50f5,producto 1,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria2,category3,4856.18,8077.86,15,Mercado Libre
+628d1233-043f-4d66-8dec-f0093a2f0de0,producto 2,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria1,category3,7478.76,2716.14,10,El Palacio de Hierro
+ddf8e82f-705a-41e8-9374-44d713cfd9ac,producto 3,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria1,category1,1683.39,636.79,06,El Palacio de Hierro
+6ab19ecd-492e-4a92-88d9-e23efda203bf,producto 3,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria2,category2,4402.87,8675.36,07,El Palacio de Hierro
+cf558b00-b703-4dc6-8963-a6e67c487e44,producto 3,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria1,category3,7168.35,3965.98,12,Liverpool
+cf9bf529-e192-4841-be92-48d5c086639f,producto 3,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria2,category2,1735.85,1505.1,03,Liverpool
+16482c43-482d-4fab-a831-72644137be37,producto 3,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria2,category1,1537.17,8562.37,02,El Palacio de Hierro
+1d195160-121d-4e43-a96e-892ae2adfee4,producto 1,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria2,category3,2219.16,7850.08,14,Best Buy
+8cde95fa-62ab-46b7-9362-4597ee044e1e,producto 3,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria1,category2,2649.22,5504.4,07,Best Buy
+3390c030-e88a-40d4-bf68-f43887a573bf,producto 2,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria3,category1,4480.12,77.13,05,Amazon
+c989ac9a-a42a-4a5e-a34c-c72a031acca0,producto 3,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria2,category1,24.44,6557.51,01,Amazon
+6b18bb8d-8f17-49d8-966d-7ba785edca4b,producto 2,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria3,category2,9514.3,7663.62,11,Office Depot
+f0f579d6-d7ce-40e1-84e2-babd6def6a3a,producto 3,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria2,category1,473.6,273.9,03,Amazon
+dd8c78c2-8368-4d70-94f8-b59eb062f63f,producto 1,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria2,category2,8458.6,6617.15,05,Mercado Libre
+346f0b04-be09-4b19-8ad9-5a0f17597c2b,producto 3,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria1,category1,417.01,1955.92,06,Amazon
+650565c5-819b-4f7c-a0df-e0deeed6aecc,producto 3,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria1,category3,7780.06,139.85,15,Liverpool
+563fbc0b-535c-49f0-9ce9-4382d8f42e04,producto 2,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria2,category2,8642.65,3586.12,15,Office Depot
+f737f75c-1ac7-49e2-b9a9-766edb885a8d,producto 2,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria2,category1,7407.27,7199.74,12,Amazon
+2e6f9a0e-aba1-4061-a155-e601c7dfbf47,producto 1,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria2,category2,8562.21,5780.11,14,Amazon
+ed1fa9d4-6714-4cb6-b176-f29304f2d3f0,producto 2,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria3,category1,3896.16,6162.94,02,El Palacio de Hierro
+bb654af6-078e-4094-9068-41d153a772ff,producto 2,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria3,category3,2894.86,3566.98,11,Best Buy
+47915165-606e-4e27-af45-5d1b82cf268c,producto 1,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria1,category3,7016.29,3621.24,13,Office Depot
+44dc00b8-af77-4396-a40f-2f05f06aee87,producto 1,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria2,category3,7533.04,6170.32,07,El Palacio de Hierro
+bdb0d3f9-afd9-43ba-957d-357951babe34,producto 3,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria2,category3,2368.25,9650.71,01,Mercado Libre
+8d330d2d-f0c8-4c91-865f-1798beb90bee,producto 1,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria2,category3,9484.66,3021.7,07,Amazon
+3fa03ecf-86fd-4d39-94eb-8dc5a6c3b0f7,producto 3,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria2,category1,6025.09,9448.03,07,Office Depot
+35a5bddb-1b2f-4dbc-8938-4e35a9d81c86,producto 3,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria3,category1,7198.62,1312.22,15,Best Buy
+64b13f4b-5869-4af1-b0c9-3039c29f221f,producto 2,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria2,category2,8716.31,5167.49,04,Liverpool
+bb87f315-e62e-40f8-8cf0-441e3b03c817,producto 3,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria3,category2,7028.08,3795.03,02,Liverpool
+6f33388a-c344-45b7-95eb-e3967c71691c,producto 3,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria1,category2,9170.98,9550.41,04,Best Buy
+33bf3f79-919b-476b-9af6-31dddf2187fc,producto 2,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria1,category2,4623.4,6124.47,02,El Palacio de Hierro
+16c846f8-1947-49d1-b476-f1a63151b0e8,producto 2,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria2,category1,4476.45,4364.7,02,Best Buy
+985aeeb9-bbdf-4be3-8caf-2eb25a28719a,producto 2,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria1,category3,5014.29,1376.85,05,Mercado Libre
+84d39490-ffd9-40fb-9bfc-c96ab102a0bf,producto 1,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category3,8144.79,7161.53,05,Mercado Libre
+ab537bfd-2ed1-437b-8057-3d3ae664ce6c,producto 2,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria2,category3,7773.27,9335.05,11,Liverpool
+819450b5-52f6-43a0-9948-90d0f724f971,producto 3,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria3,category3,9394.11,4055.45,08,Office Depot
+897b1ba3-4dd4-4181-ae28-a2eddfd1c66b,producto 2,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria2,category3,7296.74,6594.75,09,Mercado Libre
+da1a980c-607e-47e5-9dfa-0470b50e8e39,producto 2,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria2,category1,3437.55,5551.93,14,Mercado Libre
+6ee8fae5-a156-4c1f-adfe-37b6a3ca7a92,producto 2,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria1,category3,4460.08,652.8,11,Liverpool
+66a23ce0-cc7b-4102-915b-70fb6eb5ad96,producto 1,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria3,category1,1590.5,3817.81,11,Best Buy
+493fbd40-b329-4651-8262-3aa497015a52,producto 2,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria2,category2,8437.54,8817.28,13,Liverpool
+fd3117ba-90a2-4b9c-a6e9-0e4cd0b2fab4,producto 1,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria2,category3,891.43,2536.49,14,Office Depot
+d3bd6f1e-fc85-4913-af2d-2e54972af79d,producto 3,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria2,category3,5148.99,9245.76,13,Office Depot
+a81b48f1-eeaa-4770-94f9-ee6e27cddb2b,producto 3,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria2,category1,7880.9,6303.38,07,Liverpool
+3087e1ef-4d8a-494b-a53f-ac1079b8df18,producto 1,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria3,category3,3961.38,310.02,11,Office Depot
+22914fb9-023f-4110-9afe-9bd1ef458bad,producto 1,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria2,category2,7922.71,3495.43,13,Amazon
+2caefbdc-6b81-4e30-8856-de9a11bb5749,producto 3,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria3,category1,9754.32,4649.53,04,El Palacio de Hierro
+76bf8852-c182-46f9-938a-bd9508e56e69,producto 1,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria2,category2,8993.56,6215.34,03,Amazon
+1103b99d-57a6-482b-82f9-08c8a7de5461,producto 1,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria3,category3,4771.87,2643.89,02,El Palacio de Hierro
+3d736daf-ae3c-44d1-8c79-87b24e90db43,producto 3,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria1,category2,9610.77,7041.74,13,El Palacio de Hierro
+d89a6ec1-39d3-4e56-a4f0-2144d85aa516,producto 2,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria2,category2,9025.49,423.31,09,Mercado Libre
+a3dc4ac1-6829-4999-97bd-4885f6d3da2a,producto 2,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria3,category1,1840.69,7021.61,05,Amazon
+252b6bee-0693-4f45-b7a3-ae5662ba2e24,producto 3,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria3,category2,1831.34,7373.85,15,Liverpool
+8eca73f1-4da4-4144-a1ed-30b6eac08827,producto 1,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria2,category1,7472.64,767.16,04,Best Buy
+de36d929-dcaf-42ba-97b1-289d8f58e406,producto 1,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria2,category1,154.36,3310.95,08,Best Buy
+4e20b442-c5d0-4b2b-ab97-7a04e3913833,producto 3,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria2,category1,7349.26,9176.58,04,Amazon
+2fc639e9-02b9-4bf2-882a-4b24e9b7dae6,producto 1,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria3,category1,3793.1,2248.22,10,Liverpool
+30df596b-5eb8-4c64-877e-1350e941c24a,producto 2,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria2,category1,8941.79,3576.94,12,El Palacio de Hierro
+9fcb499e-e8d4-4cf8-9e07-177ac3697618,producto 3,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria2,category3,214.24,7901.34,12,Mercado Libre
+376c29ce-4f72-46c7-bdb5-55269388827c,producto 2,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria1,category1,3901.89,481.63,10,Office Depot
+225e7fb9-d017-48b9-bd9a-3171b66fb8d5,producto 3,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria1,category3,408.87,3190.71,11,Amazon
+b52a2bd9-0fe7-4b9f-8ebf-69486604a18d,producto 2,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria2,category3,824.44,5009.25,09,Office Depot
+c0d64c13-d8a4-43cc-b47e-2ae780596b14,producto 1,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria2,category1,5250.86,4880.76,01,Amazon
+eaee2b7d-ad47-4690-8e50-7b60057721d0,producto 3,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria1,category1,7916.94,9881.63,07,Office Depot
+ff7c8491-aadd-4309-b4ea-988f05c92eb8,producto 3,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria1,category3,46.46,8736.07,05,Office Depot
+b53395b7-6cbc-4abd-8678-781ac6c031c5,producto 3,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria2,category3,5614.78,8584.72,13,Office Depot
+dd4a4dfd-ad03-4624-b11a-1020a3156ed0,producto 3,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria3,category2,7741.96,7924.76,06,Amazon
+af1ac54c-f263-4e95-9612-aa042eb057e5,producto 1,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria2,category1,1737.45,1679.16,11,Best Buy
+a87ed513-6fee-4838-8cfd-2299490a2844,producto 2,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category2,4581.06,4622.0,06,Mercado Libre
+75677f4c-d395-49bc-931d-588185b59240,producto 2,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria3,category1,571.19,6345.65,04,Amazon
+481acba2-761c-46f5-8e6b-6dd54c541273,producto 3,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria2,category3,8764.77,5041.23,14,Mercado Libre
+b3bf708d-6139-44b5-bce1-cc55eeead12d,producto 3,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria3,category1,38.72,6498.25,02,Best Buy
+905a53ef-6921-428a-8a72-0226541077e5,producto 1,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria1,category1,5782.87,9451.03,08,Office Depot
+0cd7b680-325c-45e1-862a-b33c0db8d0ab,producto 3,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria3,category2,7003.91,6612.97,13,Best Buy
+7b7b1d01-a252-40c3-bf2e-f461774ffba1,producto 2,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria2,category3,4632.62,7457.06,11,Mercado Libre
+01697529-bd4b-4f73-ac91-392dffd52407,producto 2,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria1,category1,3201.16,4143.68,02,Amazon
+5dabd7f2-0179-441a-9d81-cf64e8c92882,producto 1,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria1,category2,6184.24,5903.75,07,Best Buy
+b0e7a5da-b878-42a4-bd3d-96e4753bbc40,producto 2,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria2,category2,9164.68,8029.59,13,Office Depot
+309807c7-df3f-4c69-9d3e-3446746db365,producto 1,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria2,category1,7539.88,1358.61,01,Best Buy
+b49dd1d6-a681-4dd1-8ab1-e7971b6a6a50,producto 3,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria1,category1,2280.12,5774.95,12,El Palacio de Hierro
+bf66768e-bceb-4a74-acbe-051768f23eb8,producto 1,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria3,category1,2753.3,1318.33,12,Office Depot
+c11bc24f-0278-465b-a3d0-573a18c5b583,producto 2,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria1,category2,2874.06,9513.2,04,Liverpool
+25174e58-2cbf-4b79-9c77-8639fd50268e,producto 2,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria2,category2,9319.05,4934.72,15,Liverpool
+70cc0fd7-58c7-44ac-96dc-58c46747f40d,producto 3,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria3,category3,9406.0,6364.21,11,Office Depot
+4cd3e9a6-9b95-4f8d-ba38-87f9cacca579,producto 1,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria2,category3,7550.92,7217.66,11,Office Depot
+40f63c08-be28-424f-ac6e-6011019aaf07,producto 3,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria2,category2,8783.68,7533.72,05,El Palacio de Hierro
+31fd84dc-a8ca-4c87-92f9-f4e2ca724765,producto 1,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria1,category3,6216.1,713.64,09,Mercado Libre
+5465da8d-988d-4a00-988e-42b817a33bdd,producto 3,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria3,category1,992.51,5291.07,04,El Palacio de Hierro
+6240ba07-3e8e-49a4-bd8a-928d9c6151a8,producto 1,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria3,category3,9014.21,6038.17,02,Best Buy
+92d87032-d8b8-49bf-b552-f224e7b05e7b,producto 2,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria3,category2,8779.54,1381.5,09,Office Depot
+a9703bd1-b3ae-4ccf-bb48-2bce21e518c6,producto 2,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria3,category3,91.53,8396.1,03,Liverpool
+13b58f2e-1a36-432b-8d6e-4c0ddc9d4682,producto 2,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria1,category2,8673.07,1847.21,15,Best Buy
+2f42dee0-578e-4a14-8582-f0636d19235e,producto 2,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria2,category3,7887.1,1108.44,07,El Palacio de Hierro
+892fad3d-bb25-476e-894e-9b3a8779a514,producto 2,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria2,category2,2856.89,7958.74,12,Best Buy
+8b3f5ece-68a9-4dbc-af6c-e8103cd090cd,producto 1,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria3,category1,1064.86,4808.16,04,Best Buy
+54ca4f6b-425c-4dcc-87fd-e3f378f68d24,producto 3,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria1,category2,4344.25,1567.15,10,Office Depot
+6c5242f8-6b3f-49dc-b38e-f12b61941cb0,producto 1,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria2,category1,913.12,5954.87,12,Liverpool
+b0999c87-4801-40a4-831c-e3e8a22f6661,producto 2,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria3,category2,3843.63,2037.7,01,Liverpool
+d4008d27-30c1-464a-86d8-b19bc1796451,producto 1,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria3,category1,6208.79,5782.83,08,Liverpool
+30588d2c-94d0-492e-9f6c-19b2fc38da76,producto 1,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria2,category3,22.27,2857.59,15,Best Buy
+66cc5058-cb99-4914-aede-3bd2cf884235,producto 3,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria2,category1,8160.2,8083.13,09,El Palacio de Hierro
+f66b3a41-286c-4d91-9b10-6b85bfcab1db,producto 2,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria3,category3,8042.48,884.07,11,Office Depot
+904bf794-92cf-4edb-840f-516e01d22aca,producto 1,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria2,category1,5878.19,949.33,15,El Palacio de Hierro
+e9d78a11-4568-4774-8956-16e03e3a6727,producto 1,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria3,category1,5704.74,2491.74,02,Liverpool
+e097a7fb-7e56-46ec-9964-a1a324c659b6,producto 1,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria3,category3,7308.37,6976.13,12,El Palacio de Hierro
+a06505fb-e2f5-48e1-b717-de67a1a26968,producto 3,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria3,category2,8041.11,1870.32,14,El Palacio de Hierro
+0e42f2a9-6f58-4e05-a2ec-38f25ed3d75f,producto 2,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria3,category3,5759.27,3109.51,15,Liverpool
+9a5ed603-13cd-4218-b667-73dee1601066,producto 3,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria2,category1,6443.64,3577.58,01,El Palacio de Hierro
+9e9056b7-da23-45d5-a6ec-306119c20686,producto 2,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category2,9016.54,8072.01,10,El Palacio de Hierro
+a1d713a1-da05-4900-98bc-b9a7c63fb7b7,producto 2,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria3,category2,8098.95,7362.21,01,Amazon
+daaf8c37-0235-4fed-8805-5ee2add00bea,producto 1,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria3,category1,2570.38,2541.72,14,El Palacio de Hierro
+2e5d50fd-b5a5-4ea5-9bb9-8d195c912c5c,producto 3,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria1,category1,7102.94,9098.42,12,El Palacio de Hierro
+8068be3d-afae-47ed-96d3-46d6831ad9f3,producto 1,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria1,category2,9163.32,7754.16,08,Amazon
+8fc5fb03-7404-4dc6-b47d-fd8fcd1a739c,producto 1,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria2,category2,4378.5,4082.11,10,Best Buy
+e7dd4539-be5f-4ca4-a952-251f206e0517,producto 1,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria1,category2,3492.7,1659.53,05,Office Depot
+859b7980-646a-4f8b-95de-77c55bade00c,producto 2,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria2,category3,1363.08,6603.76,10,Mercado Libre
+03c05c84-bb87-43b3-a4f3-047c4b960412,producto 3,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria1,category3,7739.91,493.83,02,Office Depot
+6fa91818-6cea-4ecd-ab6d-7842c08d0100,producto 2,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria1,category1,2803.07,3711.81,08,Amazon
+58c546e2-46f7-429b-9b97-6713d0361a88,producto 3,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria3,category1,4121.03,347.94,02,Office Depot
+70b238e0-0f6a-4fc2-9b5f-cccc6e2b419e,producto 2,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria2,category2,1468.15,6198.84,08,Best Buy
+2c98ce6e-43f6-4c60-b436-5f23617ac873,producto 1,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category1,6376.76,870.65,11,Liverpool
+233b8cca-3336-4634-bc89-c314baa2e468,producto 3,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category3,6649.66,6360.75,09,El Palacio de Hierro
+9a083f26-2d93-44e3-a5dd-3a55348557da,producto 1,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria3,category2,255.59,3313.4,12,Mercado Libre
+52295481-1575-4f30-8330-d709d4ae1755,producto 3,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria3,category1,3223.74,2.04,08,Amazon
+3b9b99d7-20ed-47f7-8cfe-b8787884bf43,producto 2,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria2,category3,412.44,6265.92,09,Best Buy
+369d05ba-f435-4674-85f2-6301a6a4fa0f,producto 3,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria2,category1,7754.63,5465.25,09,Liverpool
+c0b8d98c-8b54-441f-af99-ad122c299711,producto 1,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria2,category1,4586.63,7159.51,03,Best Buy
+b6930613-e7b0-4e15-a8a8-5ad6471071be,producto 3,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria1,category1,6146.29,3268.96,05,El Palacio de Hierro
+db80cedc-ae2f-463b-9f1e-5a0842f0ba2e,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria1,category2,773.63,7828.82,09,Mercado Libre
+c90f024b-f472-4dd0-8c79-1f07c7226912,producto 3,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria2,category1,1592.36,5311.73,10,El Palacio de Hierro
+104dfe82-8594-41d3-8fb0-fd4bc270dca9,producto 3,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria2,category3,7216.12,3532.49,14,Amazon
+973b9d21-2b15-4e96-87a2-e7a140e7324d,producto 2,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria2,category2,5087.5,2466.83,02,Office Depot
+a70e584b-4f19-494b-9e66-8c28b4e05e0b,producto 3,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria3,category1,1780.7,660.53,04,Amazon
+fe2a1325-18c2-441c-954d-c5255d322463,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria3,category1,9302.67,3318.39,14,Mercado Libre
+9f8fcec2-2bad-408e-9847-b71c0096cd0e,producto 3,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria3,category2,9783.29,4610.16,12,Mercado Libre
+4dfa95a2-6e6a-486a-b390-4a8dedf2762c,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category2,5316.83,9275.37,04,Mercado Libre
+546e5041-e7ca-48dd-99bb-a1257fb3a150,producto 3,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category3,7383.33,2666.32,04,Office Depot
+124f72d4-1171-4699-ae6f-0968edcc03c0,producto 1,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria2,category2,8452.66,9261.54,09,Best Buy
+35882496-4f9c-4f9d-b1be-59a8ddf53835,producto 2,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria3,category3,3598.71,3771.92,10,El Palacio de Hierro
+7c8e01f8-bf2f-4c6b-ba6e-af04d9f5d81e,producto 3,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria3,category1,6885.21,6264.17,02,Liverpool
+680ab8ec-df6f-41cd-a35d-a5bbb648b4a7,producto 3,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria2,category3,8789.17,276.21,15,Best Buy
+7c56ced9-a4ff-4654-9d34-b010c2f3e874,producto 1,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria2,category2,2060.54,7589.83,10,Liverpool
+02b22c5b-2ac8-4109-aaec-033f55a5428f,producto 1,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria1,category1,5675.14,602.21,09,Liverpool
+030b8fb8-575a-4f96-80a0-446f289fb0be,producto 1,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria3,category2,1895.89,1024.11,06,El Palacio de Hierro
+7f5f3723-f727-4687-bbf8-b86dffb44c6f,producto 1,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria3,category1,742.74,4887.42,04,Mercado Libre
+51a82ec0-58d6-4923-8819-2da0163291c0,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category3,292.44,6539.73,06,Office Depot
+104dd68d-4dc6-4e2b-a6b8-956500b6b681,producto 3,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria1,category3,6462.11,3761.4,14,Liverpool
+0a3c1545-d90b-4838-94a1-2b038df872f0,producto 1,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria3,category3,1647.32,17.74,04,Liverpool
+8b18ef1c-88f4-42fa-8397-6ca4db65b590,producto 1,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria1,category3,5876.36,6120.01,07,Mercado Libre
+fe6e3f0e-71d0-41a6-bd25-d97626b3befa,producto 3,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria3,category3,450.82,1941.28,13,Best Buy
+51e235c4-9423-4db0-9485-ddd3f9e7ccfe,producto 2,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria1,category3,1369.28,6953.9,10,Amazon
+81318b8c-97cf-4012-b51b-54a1bad78aa9,producto 3,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria2,category1,7609.79,3252.1,07,Best Buy
+12b43527-c743-4ebe-960d-a6851e19c601,producto 3,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria1,category1,5100.6,6033.58,01,Mercado Libre
+9b746e6f-7912-4bcd-99e6-dd76ded83f56,producto 3,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria1,category1,2751.88,3926.56,11,El Palacio de Hierro
+d61a0439-3577-4a02-a02a-29c6485614dd,producto 1,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria3,category3,8078.1,7143.6,11,Mercado Libre
+6176fbe0-c177-4acf-8f91-a656348f215d,producto 2,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria2,category1,2387.66,8964.0,07,El Palacio de Hierro
+83e228b4-40e5-457f-ad2d-8ab19e11ff38,producto 1,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria1,category1,5090.9,2925.88,10,Liverpool
+78b0692d-9f69-4419-a129-0b670d34867d,producto 2,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria2,category3,4029.62,9436.39,14,Liverpool
+24cf8d17-ea01-4932-acd4-6e46e4091cf2,producto 1,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria2,category2,2260.1,6244.55,08,Mercado Libre
+fabb3f62-d54a-4361-9966-cf0af8e736f4,producto 3,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria1,category2,8989.44,4913.33,12,Best Buy
+ed7d4f8d-6605-45a9-a839-42ec7b335eb9,producto 2,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria2,category3,9620.39,7971.12,11,Liverpool
+39503c7b-834d-4743-bfcc-992da779d319,producto 3,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria3,category1,6557.08,2531.95,12,Mercado Libre
+e49b1128-eeeb-42b1-b9ca-0ffd92624f46,producto 1,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria3,category2,5531.57,4174.47,06,Office Depot
+0c826db3-7034-4a4c-b69e-c6b5dacb29b2,producto 1,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria3,category3,7890.87,264.13,01,El Palacio de Hierro
+f29c96c5-90e3-47b9-8317-04a2d5b38d0e,producto 2,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria2,category2,1593.35,5806.12,02,Amazon
+566f37a8-10f6-481a-ac5c-1031c2815934,producto 1,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria1,category3,1278.33,2433.63,06,Liverpool
+bda14ee0-7c46-4a86-9c36-8c8bdcfb177c,producto 3,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria2,category3,5855.45,4763.39,14,Best Buy
+e39ba962-ae84-43b8-8088-dd5d73fa6978,producto 3,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria1,category2,650.01,424.91,02,Liverpool
+9c9a1f6f-8e2b-449d-9a1d-bebeb3a8edcd,producto 1,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria1,category3,4231.82,9919.35,12,El Palacio de Hierro
+a5a62958-8744-4924-a188-389972193ba4,producto 3,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria1,category2,366.93,951.27,14,Amazon
+34ea6718-59a5-4286-b707-11818727dfba,producto 2,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria3,category1,130.79,3297.57,12,Best Buy
+c51cb4b5-dd76-4571-b779-32fb96576e4c,producto 1,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria2,category3,6281.69,4457.72,07,Liverpool
+3fe8d8b1-ebe2-4dc2-9364-4b13018f8093,producto 1,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria3,category2,8318.93,9001.42,11,Liverpool
+ed2b6eec-fd85-4bf7-bba2-66e8edf641a9,producto 2,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria2,category3,8514.11,2210.96,08,Liverpool
+af47eaac-7726-43f7-b6ea-6de94e94ffb7,producto 1,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria3,category2,929.61,5714.1,15,Amazon
+410c7aa8-7ea7-4d5e-8b71-4b97dbe8ead0,producto 1,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria3,category3,4776.71,7732.57,02,Office Depot
+8507053b-8f26-4b05-ae3e-d144a3807054,producto 3,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria3,category1,5755.79,3046.83,13,Amazon
+89b515c6-b98d-4eca-86f2-2ac2b6508293,producto 3,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria1,category3,6782.02,6798.88,05,El Palacio de Hierro
+6f8e2618-f916-4d4f-814b-d31bec5e75c1,producto 1,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria1,category3,2411.6,9490.86,15,Office Depot
+7a28ba62-558a-4351-84b5-7008efb68470,producto 2,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria2,category1,8404.99,2588.72,11,El Palacio de Hierro
+fd0e75e7-fadf-461a-9cf7-79a3350c38da,producto 1,tienda.com/categoria1/productoB,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria2,category1,4643.59,7187.8,02,Liverpool
+e5519f8c-0d6d-4068-b82a-cd36b5b19707,producto 1,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria1,category2,5712.44,3489.68,05,Best Buy
+e30b1e97-d445-45d2-a00c-df40fd1d2b3c,producto 1,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria1,category2,1596.88,8711.45,05,Liverpool
+71223059-23cb-4105-9772-54814421aaf4,producto 1,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria3,category2,5041.77,9094.26,13,El Palacio de Hierro
+e2a72ae3-d2cc-4e54-8ef6-f87fb220dffe,producto 3,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria2,category1,1055.81,7037.56,03,Liverpool
+14c96c1f-3067-46b4-b71a-f250c4aaa8af,producto 1,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria3,category1,5224.65,2776.28,05,Mercado Libre
+cce0ca07-97ad-4103-8b4b-4c1cea4dc942,producto 1,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria2,category1,8336.7,4924.11,07,Liverpool
+27df9c2c-a7cb-4ec1-828e-7ffe33839700,producto 2,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria2,category2,9199.57,2968.17,07,Mercado Libre
+2fb4ec74-fe16-496b-a3d5-4e9651492977,producto 2,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria2,category2,7375.98,8698.97,09,Amazon
+bd83a616-35ed-4b2d-88cd-b07e6821efd6,producto 3,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria3,category1,7057.13,9366.45,05,Mercado Libre
+a6e366f6-a5fb-4653-afe0-9729da8d2f61,producto 1,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria1,category3,9724.15,902.18,01,Mercado Libre
+c7fabd18-8491-4316-b4a6-faa183bb6200,producto 1,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category2,7218.88,9382.04,07,Mercado Libre
+460011d7-3c29-410e-abe2-9da9f716cca7,producto 2,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria3,category2,5576.33,7711.07,14,El Palacio de Hierro
+adb4e84e-c236-41b1-87bc-712a06cb2b20,producto 3,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria2,category1,500.65,5097.62,14,Office Depot
+d6fbc8fc-e46b-405c-8b0f-729685d0e20c,producto 2,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria1,category1,6806.62,8463.38,12,Best Buy
+2c2c390b-53e3-4b88-a64c-249c0eded66b,producto 1,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria1,category2,3968.54,1331.55,09,El Palacio de Hierro
+38174169-107b-4d17-88d7-4c82c69b3172,producto 3,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria2,category3,7209.51,2297.55,02,Amazon
+efca433e-9809-461a-b8e7-7e8618cc0cd6,producto 3,tienda.com/categoria1/productoC,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria2,category2,1074.68,3222.42,01,Best Buy
+e8fabb2d-63c6-4c85-8917-f74b8fdaddbd,producto 1,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria3,category3,3270.92,7813.05,15,Amazon
+51e344c1-76fb-4220-b953-6fd0a928db24,producto 3,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria1,category1,1616.97,529.63,01,Mercado Libre
+f1d87785-7334-4664-926d-634cd10c7de6,producto 2,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria1,category2,3610.82,7495.37,08,El Palacio de Hierro
+08529ba8-5ce5-4e68-b246-0b59038bf94d,producto 3,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria2,category3,2183.85,4701.44,01,Office Depot
+de7ffd96-29f5-454d-8a62-641e9513afe1,producto 3,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria3,category2,5054.25,9990.28,12,Amazon
+ab5fdb4d-3b2a-4564-8b3d-906ccc3f23c5,producto 1,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria3,category3,3906.5,122.02,15,Liverpool
+3a3e0a01-d1da-4534-9b65-c6b236047c67,producto 3,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria1,category2,194.44,9303.4,13,Amazon
+d20daa5b-aac1-4758-bc63-77c0515c32eb,producto 3,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria2,category3,1600.35,4999.87,04,Best Buy
+9df32069-352c-4fbd-ad6d-2d8bb2d5be38,producto 3,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria1,category2,7270.47,7389.64,02,Office Depot
+7dd4a4d1-c56e-40c9-b33c-24f5e3eadc64,producto 2,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria3,category2,8039.77,9088.65,04,Liverpool
+fe40b230-fb70-4fd2-b091-bacd169881cd,producto 1,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria3,category3,2701.42,3239.69,07,Office Depot
+baf8e3c2-2501-4218-a043-fd187ad0627a,producto 1,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category3,342.37,9239.35,07,Office Depot
+38196953-7368-4d05-aabd-e04f45e17d3a,producto 3,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria3,category1,9064.41,7467.34,02,Amazon
+b520f1a5-1c50-49f6-b168-f449abe2bd17,producto 2,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria3,category3,2353.59,4622.0,09,Amazon
+754d64b6-5b5f-4b6f-899a-0aae29ee81a0,producto 3,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria2,category2,2562.39,3227.43,09,Mercado Libre
+64ba84d1-c9a1-4857-a1ac-1364f293da5b,producto 3,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria3,category3,7714.21,9920.58,05,El Palacio de Hierro
+d67d5db6-aefe-4103-bce6-7043ad65248f,producto 1,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria1,category3,9146.68,4402.89,01,Office Depot
+03e0b010-d176-4165-8239-39525f7fccf2,producto 1,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria1,category1,5953.55,6784.9,11,El Palacio de Hierro
+670e58b8-7649-4844-9a72-17f1f93fba3e,producto 2,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria3,category1,2155.27,240.91,10,Amazon
+dc26d26c-3c00-48ce-9c23-e00c2e59327d,producto 2,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria1,category1,1474.92,2371.73,05,Best Buy
+d72c71e3-1091-4d71-a164-e80759294c6f,producto 3,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria1,category2,1410.25,473.29,12,El Palacio de Hierro
+41b91761-d8c5-468e-b3bf-31fef9fd59ef,producto 1,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria1,category2,2648.86,3834.49,08,Liverpool
+c75bbbf6-bd4f-49ee-aa99-9cc8f8860446,producto 2,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria2,category2,3570.95,4920.33,04,Office Depot
+b6090aaf-ea1d-4b49-a226-1aabf82c539f,producto 1,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria1,category3,460.18,9222.35,14,El Palacio de Hierro
+97db1847-ca12-4ad0-ab9a-5f9e775e06d0,producto 1,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria1,category2,4668.83,1367.19,10,Office Depot
+891e4f2c-da8d-4015-a143-486bd54f6903,producto 2,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria3,category2,126.97,8247.5,07,Amazon
+e9e709d9-eaee-418c-baca-45ddb3eabf22,producto 3,tienda.com/categoria1/productoC,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria1,category1,1426.03,7072.49,04,Amazon
+14d92949-3e00-4313-93c9-4467b55e9d65,producto 1,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria2,category3,5664.14,5205.31,12,El Palacio de Hierro
+a902c50e-f9d1-4f96-8f90-4726151b9e07,producto 2,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria2,subsubcategoria2,category2,3066.82,8398.68,12,Liverpool
+10b4c8db-4d49-4023-9e50-8a421a1c1554,producto 2,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria3,category1,8101.17,1909.17,05,Amazon
+6f6e9801-e569-483c-bb2e-229256668594,producto 1,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria3,category3,4125.55,5768.77,11,Amazon
+a05f8d28-3487-440f-a41a-0e7b23591385,producto 3,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria2,category1,49.16,7122.82,04,Mercado Libre
+8725294b-43c5-4c00-a31c-1768b52f7966,producto 1,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria2,category1,6586.28,4710.49,08,Liverpool
+aed422d4-0cec-4ae6-a051-ab787e87b3d3,producto 3,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria3,category3,9901.32,3341.85,07,Amazon
+b5869a80-1bdf-43b9-9d0d-4a7f676a8829,producto 1,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria3,category2,1900.3,2308.87,15,Best Buy
+bbd5a77a-b537-4615-b37a-a6c33ce66a5f,producto 2,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria2,category3,2017.71,1984.14,09,Amazon
+3bc8a3aa-7699-484c-8436-6cb4905f78a7,producto 2,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria2,category3,2517.2,8435.93,09,Best Buy
+6475a239-e7a9-4e46-b00c-d14ed576e5d1,producto 1,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria2,category2,5638.8,239.09,01,Mercado Libre
+2eb4a32e-8e8b-4f69-bda7-67d5ff7803af,producto 3,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria3,category3,7608.12,5579.22,09,El Palacio de Hierro
+08bae56a-5acf-4d47-96df-c143dd2ecb83,producto 1,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria2,category2,799.65,7370.07,06,Office Depot
+e4a7adb1-302f-42fa-83e0-7b7aaa93b635,producto 2,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria2,category3,2859.18,2917.2,10,Office Depot
+bb424531-7e65-430f-930d-8f6e559c16fd,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria1,category1,9296.97,5738.24,15,Best Buy
+fe640c22-99ad-4bb6-9f1f-6e64d177d845,producto 2,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria2,category3,1983.15,8504.73,09,Amazon
+550f35da-6216-48dd-8d02-646e883c5a5a,producto 2,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria3,category3,7025.27,7625.97,13,El Palacio de Hierro
+b3f2d2c6-86d7-4b94-a44d-6c38b44cf96b,producto 1,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria2,category1,4297.47,9392.87,06,Amazon
+233740ae-d5e0-47e7-abb8-41d5c23643d2,producto 1,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria1,category2,9565.77,5170.25,01,Amazon
+900f378c-a5a9-4783-8a79-0f7c1596347c,producto 1,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria2,category3,4086.47,3087.31,12,Best Buy
+f99190e5-1111-4624-9b48-d42cabab24f2,producto 3,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria2,category3,3357.12,6719.14,14,El Palacio de Hierro
+8de31749-e2cc-4973-8a2e-e366f9e53f0c,producto 2,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category2,1474.9,6165.19,07,Office Depot
+66aa4751-df29-4e2f-9c99-1b8c3b95dfcb,producto 2,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria2,category2,7462.49,4694.21,06,Liverpool
+be52b51d-df84-4643-b596-09c0c3794183,producto 1,tienda.com/categoria1/productoA,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria2,category3,8086.74,4042.74,08,El Palacio de Hierro
+d536af3a-eef7-4c7c-a9f6-15fdbe60b146,producto 3,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria3,subsubcategoria1,category3,7867.88,6368.06,06,El Palacio de Hierro
+03f47609-a2ab-4c5f-9beb-ab3265639413,producto 2,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria1,category2,5976.78,9123.76,06,Mercado Libre
+c22cae4c-d44f-4578-bc0c-4feee85d0cdd,producto 1,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria1,subsubcategoria1,category2,2554.05,4504.67,10,Best Buy
+82fcb42f-cda7-4ba4-9b26-67eb3cbbd8fd,producto 3,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria3,category1,783.12,6930.97,05,Liverpool
+af121582-cbf7-496b-a36a-abbadbbf4419,producto 2,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria2,category3,8752.7,8631.62,02,Amazon
+23518a81-d7ff-4fd6-b6d0-fe806db959ce,producto 2,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria3,category2,9622.18,8291.52,10,Best Buy
+a0fb8bae-201d-4535-b7b0-5ab4f1549f9c,producto 3,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria2,category2,9322.7,5580.87,08,El Palacio de Hierro
+b499a1a8-d66a-4735-ba28-87ea0c3b603c,producto 1,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria3,subsubcategoria2,category2,1301.97,3287.09,11,Mercado Libre
+341f9eb3-68c3-4fa5-91d5-ecb65ba209d2,producto 1,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria1,category1,3879.92,2304.93,15,Amazon
+71f0d3aa-9d81-4192-b518-0996ac527ddb,producto 2,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria1,category1,1376.48,642.1,09,Best Buy
+2027f0f1-4a68-4899-8555-7d62134b3418,producto 1,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria1,subsubcategoria2,category2,175.6,1855.57,01,Mercado Libre
+37cb050a-0d2a-46c8-ada5-fac141266509,producto 2,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria2,category2,4196.16,6486.85,03,Mercado Libre
+da64c069-2e48-417e-a97b-673aeedecc56,producto 2,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria1,category3,9289.82,1902.99,09,Best Buy
+74ba751f-c336-471f-b018-9e78d1347425,producto 2,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria1,category3,8283.54,4777.29,10,Mercado Libre
+28189494-6ed0-405b-a493-84d600f010f4,producto 2,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria2,subsubcategoria2,category1,843.3,940.36,10,El Palacio de Hierro
+9fc19bc4-a6f2-4790-b6f3-b13136470f3b,producto 1,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria3,subcategoria1,subsubcategoria3,category1,4571.7,7182.33,01,El Palacio de Hierro
+b80dadca-9e54-43b8-a460-adff408c9282,producto 2,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria3,category3,8973.46,9322.15,13,Best Buy
+3fa9cc7f-39c3-4c7d-a872-a9f122c92b08,producto 3,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria3,category2,9846.36,6166.39,11,Amazon
+d6638909-ba38-471b-aa1b-91ce3a159517,producto 1,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria1,subcategoria2,subsubcategoria3,category1,7277.17,1218.86,07,Best Buy
+72f1086f-326b-41ae-b926-5c62c0b4c129,producto 2,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria1,category3,4415.9,5397.6,10,Mercado Libre
+78a1a9ad-dbaf-4f99-bae1-8d67423aad95,producto 3,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria3,category2,8227.62,361.34,08,Amazon
+f0868313-0b63-457f-bf24-6ce62278b147,producto 3,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category3,2102.34,7935.25,11,El Palacio de Hierro
+17bf9513-b58d-48ab-b819-06049d910e02,producto 2,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria3,category2,8742.49,4432.33,03,Best Buy
+9f6c3dbb-ba24-442b-bd2b-717ec1a95bde,producto 1,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria1,category2,3564.75,6295.58,02,Mercado Libre
+3428c741-3797-4650-b0b6-da17c3b4bd73,producto 1,tienda.com/categoria1/productoA,marca3,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria2,category1,2026.9,8378.12,08,Amazon
+c8ec13db-2e68-474d-b295-691958446b58,producto 3,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria3,category1,1609.2,7941.3,14,Office Depot
+6b9b569b-b4cc-4e9f-b8f8-0e767fcfa934,producto 3,tienda.com/categoria1/productoC,marca1,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria3,category3,4471.8,8755.87,11,Best Buy
+9c948d00-06b5-4534-aaf4-e618599965b2,producto 1,tienda.com/categoria1/productoA,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria1,category3,8951.75,5057.89,03,Best Buy
+7dfefc54-22b2-4be1-a7b8-9439fd3f3abb,producto 3,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria2,category3,7302.02,7530.49,11,El Palacio de Hierro
+ead87d23-9e31-4cd4-95f3-dba5b5084b25,producto 1,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria1,category3,4521.77,7870.35,10,El Palacio de Hierro
+14a2aef3-b413-41e9-b4fd-4af9ffac3050,producto 3,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria3,category1,9243.88,6318.71,02,Mercado Libre
+3cdb8220-9e7f-42f6-97c1-d99aeb9f2d8b,producto 3,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria2,category1,1704.7,3013.82,11,Mercado Libre
+11f4a44a-a35d-464b-ae8c-46f968b04e60,producto 2,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria2,category2,8623.11,3527.4,15,El Palacio de Hierro
+3cbaf9a1-a675-4bb5-a59d-22420e3d057d,producto 1,tienda.com/categoria1/productoB,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria1,category3,8025.82,4581.14,04,El Palacio de Hierro
+43a312dd-6a58-4f3c-9968-dd58bb91a573,producto 2,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria3,category1,3811.96,2480.4,10,Mercado Libre
+67f46793-5af8-42b7-81d8-c0588777ac29,producto 2,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria1,subsubcategoria2,category1,4701.6,9054.6,11,El Palacio de Hierro
+bb2ffa43-c88c-4ee4-8905-595672f65c41,producto 2,tienda.com/categoria1/productoC,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria2,category1,5724.17,5937.94,07,Mercado Libre
+992613b9-1eca-45db-bb97-322b54870123,producto 3,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria1,category3,9649.88,2754.96,10,El Palacio de Hierro
+4108d104-3b33-44e0-8c07-6487bc483b4c,producto 1,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria3,subcategoria2,subsubcategoria2,category1,1625.02,82.28,15,Best Buy
+b6c34a62-30ba-4053-9056-2ed2bc8f94fc,producto 2,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria1,category2,3436.86,6987.01,14,Mercado Libre
+f6d38a75-9775-42f9-a7b1-1f1b0b372637,producto 1,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria3,subcategoria1,subsubcategoria1,category1,1893.59,7907.67,08,Best Buy
+49b8d5aa-8714-4276-aaa1-ad6215adfcde,producto 2,tienda.com/categoria1/productoA,marca1,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria2,category3,2770.24,3670.89,13,Mercado Libre
+ff4cc8b4-42bf-4ee5-9df7-aabca6ea088a,producto 1,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria2,category2,2916.74,3491.32,14,Office Depot
+3fd4cb59-b34f-4341-ac37-0e8da9f694d1,producto 1,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria1,subsubcategoria2,category3,6144.66,244.96,05,Office Depot
+95dcb20b-24d7-4ba5-91a9-c8faa275b0be,producto 2,tienda.com/categoria1/productoA,marca1,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria3,category1,4981.29,3036.38,06,El Palacio de Hierro
+6ab93b71-71e1-4ba4-a028-aa9c84396fde,producto 2,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria3,subsubcategoria2,category2,8097.75,8238.14,13,Mercado Libre
+51c884ab-edb4-49c7-acca-219eb1358294,producto 2,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria3,subcategoria3,subsubcategoria1,category1,4100.01,929.49,05,Amazon
+8326dbf2-f7fb-49e2-8bfb-c46b7a22c53c,producto 1,tienda.com/categoria1/productoB,marca1,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria2,category1,8536.76,3232.5,13,Best Buy
+e49ffed9-f79f-474a-8b34-c0f5b5b5557c,producto 1,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria2,category2,1566.64,8434.75,03,Office Depot
+a9955431-973c-4741-883a-b04899c8bba3,producto 3,tienda.com/categoria1/productoA,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria3,subsubcategoria3,category1,7042.34,713.08,12,Liverpool
+6711dd7e-2f8d-43cc-9343-bcefc6499f51,producto 1,tienda.com/categoria1/productoC,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria1,category1,3658.11,3692.81,10,Mercado Libre
+be778fbc-5908-4fc1-bc92-2b2771f712ef,producto 1,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria1,category3,7037.02,482.8,12,Best Buy
+30563d28-d784-452c-a984-90e82ea2f7f4,producto 3,tienda.com/categoria1/productoB,marca1,keyword1-keyword2-keyword3,categoria2,subcategoria3,subsubcategoria2,category1,2099.41,5689.97,01,Best Buy
+d8775b7f-c319-4aac-9048-d5b017b7a044,producto 3,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria2,category3,5947.27,8404.76,14,El Palacio de Hierro
+220a8ee1-5695-492a-a2af-1ff456d820df,producto 3,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria3,subsubcategoria2,category1,481.39,2532.3,05,Office Depot
+826e02dc-12b3-40a4-a767-98300a53695b,producto 3,tienda.com/categoria1/productoC,marca1,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria3,category3,559.41,7459.65,05,Mercado Libre
+90fa2394-1eb2-4d46-ba7a-8a8c70e414f3,producto 1,tienda.com/categoria1/productoC,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria1,subsubcategoria2,category1,7602.29,4411.07,01,El Palacio de Hierro
+98dcd34e-802a-40d1-97c4-b79bc15784dd,producto 3,tienda.com/categoria1/productoA,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria3,category1,4140.75,9367.56,08,Office Depot
+8fdea12a-006f-48cc-95c5-5f1d1e3b8602,producto 2,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria1,category3,9561.39,2547.81,13,Amazon
+52684355-234c-4b38-ad82-a55ec2fcaf7f,producto 2,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria3,subcategoria2,subsubcategoria1,category1,3967.39,170.01,15,Mercado Libre
+29c08cb1-fb55-46ad-940f-806c13a3cfe7,producto 2,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria2,category2,8212.98,6322.31,15,Best Buy
+2c252e1b-f837-4a29-8cf4-c40a97600f8e,producto 1,tienda.com/categoria1/productoB,marca3,keyword1-keyword2-keyword3,categoria2,subcategoria2,subsubcategoria2,category2,8823.54,6745.65,03,Mercado Libre
+ea025753-bebe-4ef2-8a56-318f32a3724a,producto 2,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria3,subcategoria2,subsubcategoria1,category3,1526.88,3106.01,10,Best Buy
+2373115a-8b7e-41b5-b29e-268c5d546b7f,producto 3,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria1,subcategoria1,subsubcategoria2,category3,3288.94,9567.31,10,Office Depot
+ddb30def-a5cf-4205-a9ae-b04dff621bba,producto 2,tienda.com/categoria1/productoB,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria1,category3,8246.23,2530.2,06,El Palacio de Hierro
+d7aa47b1-917a-4c03-9a4a-794ab61084c9,producto 2,tienda.com/categoria1/productoA,marca2,keyword2-keyword3-keyword4,categoria1,subcategoria3,subsubcategoria1,category3,7862.15,7347.26,05,El Palacio de Hierro
+3cbfb727-327b-462b-8948-893a0facf52f,producto 1,tienda.com/categoria1/productoC,marca2,keyword1-keyword2-keyword3,categoria1,subcategoria2,subsubcategoria3,category2,4025.96,8157.24,09,El Palacio de Hierro
+ce2242e0-62d0-41a9-bda6-b54d8918bdac,producto 2,tienda.com/categoria1/productoB,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria1,category3,1210.25,1338.25,03,Office Depot
+d281909d-86c8-4be8-8f93-831b3937bd49,producto 1,tienda.com/categoria1/productoB,marca3,keyword3-keyword4-keyword5,categoria2,subcategoria1,subsubcategoria2,category1,6926.95,3516.13,15,Amazon
+1c1f6e1a-1286-42d9-a112-dbe5b189ee60,producto 1,tienda.com/categoria1/productoC,marca1,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria1,category3,2696.83,2799.36,08,Best Buy
+5b91316c-e11f-4f88-91a9-388bdea1b978,producto 3,tienda.com/categoria1/productoA,marca2,keyword3-keyword4-keyword5,categoria2,subcategoria3,subsubcategoria1,category1,4866.53,6891.81,14,Mercado Libre
+0afd13cc-e16c-429a-970b-a22d8519b763,producto 1,tienda.com/categoria1/productoB,marca3,keyword2-keyword3-keyword4,categoria2,subcategoria2,subsubcategoria1,category3,8024.82,4628.51,10,Office Depot
