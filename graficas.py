@@ -10,7 +10,10 @@ from matplotlib import pyplot
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 from nltk.corpus import stopwords
+nltk.download('stopwords')
 stop = stopwords.words("spanish")
+import nltk
+import re
 
 
 ################################################## 
