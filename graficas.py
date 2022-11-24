@@ -90,3 +90,5 @@ def plot_wordcloud(df,category):
         ))
         
     return(fig)
+######################prueba##############################
+plot_wordcloud(df,'Alimentos y Bebidas', 972)
