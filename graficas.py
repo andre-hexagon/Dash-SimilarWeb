@@ -90,3 +90,21 @@ def plot_wordcloud(df,category):
         ))
         
     return(fig)
+
+
+################################################## 
+############# Tarjeta de Resultados ##############
+##################################################
+def plot_indicator(df,metric):
+    #write a plotly function with go.Indicator to plot the metric of interest without delta#
+    #df is the dataframe with the data#
+    #metric is the metric of interest#
+    #return the plotly figure#
+
+    fig=go.Figure(go.Indicator(
+        mode = "number",
+        value = df[metric].iloc[0],
+        title = {"text": metric},
+        domain = {'x': [0, 1], 'y': [0, 1]}))
+
+    return(fig)
