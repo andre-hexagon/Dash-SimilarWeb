@@ -1,3 +1,8 @@
+import nltk
+nltk.download('stopwords')
+
+
+from graficas import *
 from email.mime import image
 from turtle import width
 from dash import Dash, html
@@ -10,35 +15,29 @@ import plotly.express as px              # pip install plotly
 import pandas as pd                      # pip install pandas
 from datetime import date
 import calendar
-import graficas
+
 
 import plotly
 import plotly.graph_objects as go
 
 
+df = pd.read_csv('MOCK_DATA.csv')
+
 app = Dash(__name__, external_stylesheets=[dbc.themes.LUX])
 
 imagen = [
-                        html.Div([
-                        html.Img(src='https://rockcontent.com/es/wp-content/uploads/sites/3/2019/02/Consejos-para-hacer-ima%CC%81genes-increi%CC%81bles.png.webp', style= {'width': '100%', 'display': 'inline-block'}),
-                        ])
-                ]
+            html.Div([
+            html.Img(src='https://www.hexagondata.com/wp-content/uploads/2020/07/13_35_17.png', style= {'width': '50%', 'display': 'inline-block'}),
+            ])
+        ]
 
 titulo = html.Title("Sell Sheet CMI",style={'width': '66%', 'display': 'inline-block','font-size':'5em','text-align':'center','vertical-align': 'top'})
 
-
-
-
-
 app.layout = dbc.Container([
     dbc.Row([
-        dbc.Col([
-            dbc.Card([
-               dbc.CardBody(
-                   imagen
-               ) 
-            ],className='mb-2'),
-        ], width=3),
+        dbc.Col(
+            imagen
+            , width=3),
         dbc.Col([
             titulo
         ]),
@@ -46,13 +45,8 @@ app.layout = dbc.Container([
     dbc.Row([
         dbc.Col([
             dbc.Card([
-               dbc.CardBody([
-                ]) 
-            ],className='mb-2'),
-        ], width=3),
-        dbc.Col([
-            dbc.Card([
                 dbc.CardBody([
+                    dcc.Graph(figure=TemporalGraph1(df['month'],df['estimated_views']))
                 ])
             ]),
         ]),
@@ -61,6 +55,23 @@ app.layout = dbc.Container([
         dbc.Col([
             dbc.Card([
                dbc.CardBody([
+                    
+                ]) 
+            ],className='mb-2'),
+        ], width=3),
+        dbc.Col([
+            dbc.Card([
+                dbc.CardBody([
+                    dcc.Graph(figure=TemporalGraph2(df['month'],df['estimated_views'],df['estimated_views']))
+                ])
+            ]),
+        ]),
+    ],className='mb-2 mt-2'),
+    dbc.Row([
+        dbc.Col([
+            dbc.Card([
+               dbc.CardBody([
+                    dcc.Graph(figure=plot_wordcloud(df,'categoria2'))
                 ]) 
             ],className='mb-2'),
         ], width=4),
@@ -99,29 +110,21 @@ app.layout = dbc.Container([
             ]),
         ], width=5),
     ],className='mb-2 mt-2'),
-dbc.Row([
+    dbc.Row([
         dbc.Col([
             dbc.Card([
-               dbc.CardBody([
-                ]) 
-            ],className='mb-2'),
+                dbc.CardBody([
+                    ]) 
+                ],className='mb-2'),
         ]),
         dbc.Col([
             dbc.Card([
                 dbc.CardBody([
                 ])
             ]),
-        ], width=5),
+        ], width=6),
     ],className='mb-2 mt-2'),
-dbc.Row([
-        dbc.Col([
-            dbc.Card([
-                dbc.CardBody([
-                ])
-            ]),
-        ]),
-    ],className='mb-2 mt-2'),
-dbc.Row([
+    dbc.Row([
         dbc.Col([
             dbc.Card([
                 dbc.CardBody([
@@ -129,15 +132,7 @@ dbc.Row([
             ]),
         ]),
     ],className='mb-2 mt-2'),
-dbc.Row([
-        dbc.Col([
-            dbc.Card([
-                dbc.CardBody([
-                ])
-            ]),
-        ]),
-    ],className='mb-2 mt-2'),
-], fluid=True)
+    ], fluid=True)
 
 
 if __name__ == '__main__':
