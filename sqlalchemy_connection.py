@@ -5,19 +5,13 @@ HOST = ''
 DATABASE = ''
 USER = ''
 PASSWORD = ''
-
 class sql_connection():
     def __init__(self, user, pswd, host, db):
-        self.engine = None
-        try:
-            self.engine = sqlalchemy.create_engine(f"mysql+pymysql://{user}:{pswd}@{host}/{db}")
-            self.connection = self.engine.connect()
-            print(f"Successfull connection to {host}/{DATABASE}")
-        except:
-            print("Error while connectingengine to SQL")
-
+        self.engine = sqlalchemy.create_engine(f"mysql+pymysql://{user}:{pswd}@{host}/{db}")
+        
     def exec_query(self, query_str):
-        return self.connection.execute(sqlalchemy.sql.text(query_str))
+        with self.engine.connect() as connection:
+            return connection.execute(sqlalchemy.sql.text(query_str))
 
     def query_to_df(self, query_str):
         query_result = self.exec_query(query_str)
