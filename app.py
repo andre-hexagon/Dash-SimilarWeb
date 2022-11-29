@@ -71,13 +71,14 @@ app.layout = dbc.Container([
         dbc.Col([
             dbc.Card([
                dbc.CardBody([
-                    dcc.Graph(figure=plot_wordcloud(df,'categoria2'))
+                     dcc.Graph(figure=plot_wordcloud(df,'categoria2'))
                 ]) 
             ],className='mb-2'),
         ], width=4),
         dbc.Col([
             dbc.Card([
                 dbc.CardBody([
+                    dcc.Graph(figure=barCloud(df,972))
                 ])
             ]),
         ]),

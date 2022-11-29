@@ -1,3 +1,4 @@
+import nltk
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
@@ -12,7 +13,6 @@ from wordcloud import WordCloud
 from nltk.corpus import stopwords
 nltk.download('stopwords')
 stop = stopwords.words("spanish")
-import nltk
 import re
 
 
@@ -90,7 +90,12 @@ def plot_wordcloud(df,category):
             showgrid=False,
             showticklabels=False,
             linewidth=0
-        ))
+        ),
+         yaxis=dict(
+            showgrid=False,
+            showticklabels=False,
+            linewidth=0)
+        )
         
     return(fig)
 
@@ -115,7 +120,7 @@ def plot_indicator(df,metric):
 ################################################## 
 ######### Nube de Palabras con barritas###########
 ##################################################
-def plot_wordcloud(df,category, w, mode = 'RGB',file_ouput = 'image.png', variable = 'sub_sub_category'):
+def plot_wordcloud_bar(df,category, w, mode = 'RGB',file_ouput = 'image.png', variable = 'sub_sub_category'):
     df = df[df[variable].isnull() == False]
     dfc = df[df[variable].str.contains(category)]     
     dfc['title_wo_stopwords'] = dfc['title'].apply(lambda x: [x.lower() for x in re.findall(r'\w+',str(x)) if x.isalpha() and x not in stop and len(x) > 2])
@@ -149,7 +154,7 @@ def barCloud(df, w, variable = 'sub_sub_category', mode = 'RGB', top = 5):
 
     for n, images in enumerate(lista_images):
         file_name = "image{}.png".format(n+1)
-        plot_wordcloud(df, images, w, file_ouput = file_name, mode = mode)
+        plot_wordcloud_bar(df, images, w, file_ouput = file_name, mode = mode)
     
     fig = go.Figure()
 
@@ -195,5 +200,5 @@ def barCloud(df, w, variable = 'sub_sub_category', mode = 'RGB', top = 5):
         margin=dict(r=20, l=300, b=75, t=125)
     )
 
-    fig.show()
+    return fig
 
