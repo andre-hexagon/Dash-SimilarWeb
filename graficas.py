@@ -196,4 +196,43 @@ def barCloud(df, w, variable = 'sub_sub_category', mode = 'RGB', top = 5):
     )
 
     fig.show()
+################################################## 
+############## Barritas  Sencillas################
+##################################################
 
+    def bar(df, w, variable = 'sub_sub_category', top=7):
+    w = w
+    variable = variable
+    df_group = df[[variable,'estimated_views']].groupby(variable, as_index=False)\
+                                                .sum()\
+                                                .sort_values('estimated_views',ascending = False)[:top]\
+                                                .sort_values('estimated_views')\
+                                                .reset_index(drop = True)
+    fig = go.Figure()
+
+    fig.add_trace(
+        go.Bar(
+            x= df_group.estimated_views.to_list(),
+            y= df_group[variable].to_list(),
+            marker=go.bar.Marker(
+                color="rgb(32, 115, 236)",
+                line=dict(color="rgb(0, 0, 0)",
+                          width=2)
+            ),
+            orientation="h",
+        )
+    
+    )
+        # update layout properties
+    fig.update_layout(
+        autosize=False,
+        height=700,
+        width=1000,
+        bargap=0.15,
+        bargroupgap=0.1,
+        barmode="stack",
+        hovermode="x",
+        margin=dict(r=20, l=300, b=75, t=125)
+    )
+    
+    fig.show()
