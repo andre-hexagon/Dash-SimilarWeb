@@ -236,4 +236,3 @@ def barCloud(df, w, variable = 'sub_sub_category', mode = 'RGB', top = 5):
     )
     
     fig.show()
-    ###
