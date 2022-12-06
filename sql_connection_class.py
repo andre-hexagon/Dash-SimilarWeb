@@ -1,10 +1,11 @@
 import mysql.connector
 import pandas as pd
+import creds_sql
 
-HOST = ''
-DATABASE = ''
-USER = ''
-PASSWORD = ''
+HOST = creds_sql.HOST
+DATABASE = creds_sql.DATABASE
+USER = creds_sql.USER
+PASSWORD = creds_sql.PASSWORD
 
 class sql_connection():
     def __init__(self, user, pswd, host, db):
