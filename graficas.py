@@ -58,6 +58,7 @@ def TemporalGraph2(t,y1,y2):
 ################################################## 
 ######### Nube de Palabras por categoría #########
 ##################################################
+
 def plot_wordcloud(df,category):
     dfc = df[df['main_category'].str.contains(category)]
     dfc['tokenized_title']=dfc['title'].str.split(" ",expand = False)
@@ -98,6 +99,7 @@ def plot_wordcloud(df,category):
 ################################################## 
 ############# Tarjeta de Resultados ##############
 ##################################################
+
 def plot_indicator(df,metric):
     #write a plotly function with go.Indicator to plot the metric of interest without delta#
     #df is the dataframe with the data#
@@ -115,6 +117,7 @@ def plot_indicator(df,metric):
 ################################################## 
 ######### Nube de Palabras con barritas###########
 ##################################################
+
 def plot_wordcloud(df,category, w, mode = 'RGB',file_ouput = 'image.png', variable = 'sub_sub_category'):
     df = df[df[variable].isnull() == False]
     dfc = df[df[variable].str.contains(category)]     
@@ -131,9 +134,6 @@ def plot_wordcloud(df,category, w, mode = 'RGB',file_ouput = 'image.png', variab
     wc = WordCloud(mode=mode,width=w, height=210, random_state = 77300, 
                             background_color = None, collocations=False).generate(text2_cp)
     wc.to_file(file_ouput)
-
-
-
 
 def barCloud(df, w, variable = 'sub_sub_category', mode = 'RGB', top = 5):
     w = w
@@ -196,6 +196,7 @@ def barCloud(df, w, variable = 'sub_sub_category', mode = 'RGB', top = 5):
     )
 
     fig.show()
+    
 ################################################## 
 ############## Barritas  Sencillas################
 ##################################################
@@ -236,3 +237,18 @@ def barCloud(df, w, variable = 'sub_sub_category', mode = 'RGB', top = 5):
     )
     
     fig.show()
+    
+################################################## 
+##################### Gráfica Pie ################
+##################################################
+
+    def pie(df, w, variable = 'sub_sub_category', top=7):
+    w = w
+    variable = variable
+    df_group = df[[variable,'estimated_views']].groupby(variable, as_index=False)\
+                                                .sum()\
+                                                .sort_values('estimated_views',ascending = False)[:top]\
+                                                .sort_values('estimated_views')\
+                                                .reset_index(drop = True)
+    fig = px.pie(df_group.estimated_views.to_list(), df_group[variable].to_list())
+    return(fig)
