@@ -58,8 +58,9 @@ def TemporalGraph2(t,y1,y2):
 ################################################## 
 ######### Nube de Palabras por categoría #########
 ##################################################
-def plot_wordcloud(df,category):
-    dfc = df[df['main_category'].str.contains(category)]
+def plot_wordcloud(df):
+    # dfc = df[df['main_category'].str.contains(category)]
+    dfc = df
     dfc['tokenized_title']=dfc['title'].str.split(" ",expand = False)
     dfc['title']=dfc['title'].str.lower()
     dfc['title_wo_stopwords']=dfc['title'].apply(lambda x:[item for item in str(x).split() if item not in stop])
