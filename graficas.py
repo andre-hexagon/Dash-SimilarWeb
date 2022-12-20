@@ -55,10 +55,11 @@ def TemporalGraph2(t,y1,y2):
     return(fig)
 
 
+
 ################################################## 
 ######### Nube de Palabras por categoría #########
 ##################################################
-def plot_wordcloud(df,data_type):
+def plot_wordcloud(df1,data_type):
 #def plot_wordcloud(df,category,data_type):
 #    df1 = df[df['main_category'].str.contains(category)]
     df1['tokenized_title']=df1['title'].str.split(" ",expand = False)
@@ -74,7 +75,7 @@ def plot_wordcloud(df,data_type):
     text2 = text1.replace(',','')
     wc = WordCloud(background_color='white', width=1080, height=360)
     wc.generate(text2)
-    return wc.to_image()
+    img = wc.to_image() 
 
     # Convert the image string to numpy array and create a
     # Plotly figure, see https://plotly.com/python/imshow/

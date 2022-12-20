@@ -21,13 +21,13 @@ import plotly
 import plotly.graph_objects as go
 
 
-SQL = sql_connection_class.sql_connection()
-query_str = "SELECT * FROM similar_web_raw where main_category not in ('N/A') limit 5000"
-df = SQL.exec_query(query_str)
+# SQL = sql_connection_class.sql_connection()
+# query_str = "SELECT * FROM similar_web_raw where main_category not in ('N/A') limit 5000"
+# df = SQL.exec_query(query_str)
 
-print(df.columns)
-print(df['main_category'].head())
-# df = pd.read_csv('MOCK_DATA.csv')
+# print(df.columns)
+# print(df['main_category'].head())
+df = pd.read_csv('MOCK_DATA.csv')
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.LUX])
 
@@ -116,7 +116,7 @@ app.layout = dbc.Container([
         dbc.Col([
             dbc.Card([
                 dbc.CardBody([
-                    dcc.Graph(figure=plot_wordcloud(df))
+                    dcc.Graph(figure=plot_wordcloud(df,'estimated_views'))
                 ])
             ]),
         ]),
