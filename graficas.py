@@ -242,3 +242,18 @@ def bar(df, w, variable = 'sub_sub_category', top=7):
     )
     
     return fig
+
+################################################## 
+##################### Gráfica Pie ################
+##################################################
+
+def pie(df, w, variable = 'sub_sub_category', top=7):
+    w = w
+    variable = variable
+    df_group = df[[variable,'estimated_views']].groupby(variable, as_index=False)\
+                                                .sum()\
+                                                .sort_values('estimated_views',ascending = False)[:top]\
+                                                .sort_values('estimated_views')\
+                                                .reset_index(drop = True)
+    fig = px.pie(df_group.estimated_views.to_list(), df_group[variable].to_list())
+    return(fig)

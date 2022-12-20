@@ -125,7 +125,7 @@ app.layout = dbc.Container([
         dbc.Col([
             dbc.Card([
                dbc.CardBody([
-                     
+                     dcc.Graph(figure=pie(df,972))
                 ]) 
             ],className='mb-2'),
         ], width=4),
