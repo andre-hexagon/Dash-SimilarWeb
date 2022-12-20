@@ -52,7 +52,46 @@ app.layout = dbc.Container([
         dbc.Col([
             dbc.Card([
                 dbc.CardBody([
+                    
+                ])
+            ]),
+        ]),
+    ],className='mb-2 mt-2'),
+    dbc.Row([
+        dbc.Col([
+            dbc.Card([
+                dbc.CardBody([
                     dcc.Graph(figure=TemporalGraph1(df['month'],df['estimated_views']))
+                ])
+            ]),
+        ]),
+    ],className='mb-2 mt-2'),
+    dbc.Row([
+        dbc.Col([
+            dbc.Card([
+               dbc.CardBody([
+                    dcc.Graph(figure=bar(df,972))
+                ]) 
+            ],className='mb-2'),
+        ]),
+        dbc.Col([
+            dbc.Card([
+                dbc.CardBody([
+                ])
+            ]),
+        ]),
+    ],className='mb-2 mt-2'),
+    dbc.Row([
+        dbc.Col([
+            dbc.Card([
+               dbc.CardBody([
+                    dcc.Graph(figure=barCloud(df,972))
+                ]) 
+            ],className='mb-2'),
+        ]),
+        dbc.Col([
+            dbc.Card([
+                dbc.CardBody([
                 ])
             ]),
         ]),
@@ -76,15 +115,8 @@ app.layout = dbc.Container([
     dbc.Row([
         dbc.Col([
             dbc.Card([
-               dbc.CardBody([
-                     dcc.Graph(figure=plot_wordcloud(df))
-                ]) 
-            ],className='mb-2'),
-        ], width=4),
-        dbc.Col([
-            dbc.Card([
                 dbc.CardBody([
-                    dcc.Graph(figure=barCloud(df,972))
+                    dcc.Graph(figure=plot_wordcloud(df))
                 ])
             ]),
         ]),
@@ -93,13 +125,14 @@ app.layout = dbc.Container([
         dbc.Col([
             dbc.Card([
                dbc.CardBody([
-                    dcc.Graph(figure=bar(df,972))
+                     
                 ]) 
             ],className='mb-2'),
-        ]),
+        ], width=4),
         dbc.Col([
             dbc.Card([
                 dbc.CardBody([
+                    
                 ])
             ]),
         ]),
