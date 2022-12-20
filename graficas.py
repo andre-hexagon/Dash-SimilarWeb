@@ -58,25 +58,23 @@ def TemporalGraph2(t,y1,y2):
 ################################################## 
 ######### Nube de Palabras por categoría #########
 ##################################################
-def plot_wordcloud(df):
-    # dfc = df[df['main_category'].str.contains(category)]
-    dfc = df
-    dfc['tokenized_title']=dfc['title'].str.split(" ",expand = False)
-    dfc['title']=dfc['title'].str.lower()
-    dfc['title_wo_stopwords']=dfc['title'].apply(lambda x:[item for item in str(x).split() if item not in stop])
-    dfc3p = dfc.loc[dfc.index.repeat(dfc.estimated_purchases)]
-    dfc3p = dfc3p.reset_index()
-    text_cp=[]
-    for i in range(0,len(dfc3p)):
-        text_cp += dfc3p.title_wo_stopwords[i]
-    text_cp
-    text1_cp= " ".join(text_cp)
-    text2_cp = text1_cp.replace(',','')
-    text2_cp
+def plot_wordcloud(df,data_type):
+#def plot_wordcloud(df,category,data_type):
+#    df1 = df[df['main_category'].str.contains(category)]
+    df1['tokenized_title']=df1['title'].str.split(" ",expand = False)
+    df1['title']=df1['title'].str.lower()
+    df1['title_wo_stopwords']=df1['title'].apply(lambda x:[item for item in str(x).split() if item not in stop])
+    df2 = df1.loc[df1.index.repeat(df1[data_type])]
+    df2 = df2.reset_index()
+    text=[]
+    for i in range(0,len(df2)):
+        text += df2.title_wo_stopwords[i]
+    text
+    text1= " ".join(text)
+    text2 = text1.replace(',','')
     wc = WordCloud(background_color='white', width=1080, height=360)
-    wc.generate(text2_cp)
-
-    img = wc.to_image()
+    wc.generate(text2)
+    return wc.to_image()
 
     # Convert the image string to numpy array and create a
     # Plotly figure, see https://plotly.com/python/imshow/
