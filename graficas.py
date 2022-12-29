@@ -257,3 +257,18 @@ def pie(df, w, variable = 'sub_sub_category', top=7):
                                                 .reset_index(drop = True)
     fig = px.pie(df_group.estimated_views.to_list(), df_group[variable].to_list())
     return(fig)
+
+#####################################################
+########## GRÁFICAS DISPERSIÓN##########################Nombre:figDISP1,figDISP2
+###################################################
+
+def dispersion(df,index_value):
+    table = pd.pivot_table(df, values=['estimated_purchases','estimated_views'], index=index_value,
+                    columns=[], aggfunc=np.sum)
+    df=table.reset_index()
+    figDISP = px.scatter(df, x="estimated_purchases", y="estimated_views", color="estimated_purchases",
+                 size='estimated_purchases', hover_data=[index_value])
+    figDISP.update_layout(legend_title_text = "Brands")
+    figDISP.update_xaxes(title_text="Purchases")
+    figDISP.update_yaxes(title_text="Views")
+    return figDISP
