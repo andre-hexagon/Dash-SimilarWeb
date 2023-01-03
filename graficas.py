@@ -1,10 +1,11 @@
+import calendar
 import openai
 import os
 import re
 import nltk
 import dash
 import dash_core_components as dcc
-import dash_html_components as html
+from dash import html
 import plotly.graph_objs as go
 import plotly.express as px
 import pandas as pd
@@ -210,7 +211,8 @@ def barCloud(df, w, variable='sub_sub_category', mode='RGB', top=5):
 ############## Barritas  Sencillas################
 ##################################################
 
-    def bar(df, w, variable='sub_sub_category', top=7):
+
+def bar(df, w, variable='sub_sub_category', top=7):
     w = w
     variable = variable
     df_group = df[[variable, 'estimated_views']].groupby(variable, as_index=False)\
@@ -251,7 +253,8 @@ def barCloud(df, w, variable='sub_sub_category', mode='RGB', top=5):
 ##################### Gráfica Pie ################
 ##################################################
 
-    def pie(df, w, variable='sub_sub_category', top=7):
+
+def pie(df, w, variable='sub_sub_category', top=7):
     w = w
     variable = variable
     df_group = df[[variable, 'estimated_views']].groupby(variable, as_index=False)\
@@ -264,13 +267,12 @@ def barCloud(df, w, variable='sub_sub_category', mode='RGB', top=5):
     return (fig)
 
 ##################################################
-############### Gráfica de Barras ################
+############### Insight de Tendencia #############
 ##################################################
 
 
-def insight_trend(df):
+# def insight_trend(df):
     # best month of the df
-    df['month'] = df['date'].dt.month
     df['month'] = df['month'].apply(lambda x: calendar.month_abbr[x])
     df['month'] = pd.Categorical(df['month'], categories=[
                                  'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'], ordered=True)
