@@ -1,11 +1,9 @@
-import calendar
 import openai
-import os
 import re
 import nltk
 import dash
 import dash_core_components as dcc
-from dash import html
+import dash_html_components as html
 import plotly.graph_objs as go
 import plotly.express as px
 import pandas as pd
@@ -15,15 +13,17 @@ from matplotlib import pyplot
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 from nltk.corpus import stopwords
+import calendar
+
 nltk.download('stopwords')
 stop = stopwords.words("spanish")
 
-openai.api_key = "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"
-
+openai.api_key = "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"
 
 ##################################################
 ######### Gráficas Temporales (1 Curvas) #########
 ##################################################
+
 
 def TemporalGraph1(t, x1):
     fig = go.Figure([go.Scatter(x=t, y=x1)])
@@ -64,25 +64,23 @@ def TemporalGraph2(t, y1, y2):
 ##################################################
 ######### Nube de Palabras por categoría #########
 ##################################################
-
-def plot_wordcloud(df, category):
-    dfc = df[df['main_category'].str.contains(category)]
-    dfc['tokenized_title'] = dfc['title'].str.split(" ", expand=False)
-    dfc['title'] = dfc['title'].str.lower()
-    dfc['title_wo_stopwords'] = dfc['title'].apply(
+def plot_wordcloud(df1, data_type):
+    # def plot_wordcloud(df,category,data_type):
+    #    df1 = df[df['main_category'].str.contains(category)]
+    df1['tokenized_title'] = df1['title'].str.split(" ", expand=False)
+    df1['title'] = df1['title'].str.lower()
+    df1['title_wo_stopwords'] = df1['title'].apply(
         lambda x: [item for item in str(x).split() if item not in stop])
-    dfc3p = dfc.loc[dfc.index.repeat(dfc.estimated_purchases)]
-    dfc3p = dfc3p.reset_index()
-    text_cp = []
-    for i in range(0, len(dfc3p)):
-        text_cp += dfc3p.title_wo_stopwords[i]
-    text_cp
-    text1_cp = " ".join(text_cp)
-    text2_cp = text1_cp.replace(',', '')
-    text2_cp
+    df2 = df1.loc[df1.index.repeat(df1[data_type])]
+    df2 = df2.reset_index()
+    text = []
+    for i in range(0, len(df2)):
+        text += df2.title_wo_stopwords[i]
+    text
+    text1 = " ".join(text)
+    text2 = text1.replace(',', '')
     wc = WordCloud(background_color='white', width=1080, height=360)
-    wc.generate(text2_cp)
-
+    wc.generate(text2)
     img = wc.to_image()
 
     # Convert the image string to numpy array and create a
@@ -98,7 +96,12 @@ def plot_wordcloud(df, category):
             showgrid=False,
             showticklabels=False,
             linewidth=0
-        ))
+        ),
+        yaxis=dict(
+            showgrid=False,
+            showticklabels=False,
+            linewidth=0)
+    )
 
     return (fig)
 
@@ -106,7 +109,6 @@ def plot_wordcloud(df, category):
 ##################################################
 ############# Tarjeta de Resultados ##############
 ##################################################
-
 def plot_indicator(df, metric):
     # write a plotly function with go.Indicator to plot the metric of interest without delta#
     # df is the dataframe with the data#
@@ -126,7 +128,7 @@ def plot_indicator(df, metric):
 ##################################################
 
 
-def plot_wordcloud(df, category, w, mode='RGB', file_ouput='image.png', variable='sub_sub_category'):
+def plot_wordcloud_bar(df, category, w, mode='RGB', file_ouput='image.png', variable='sub_sub_category'):
     df = df[df[variable].isnull() == False]
     dfc = df[df[variable].str.contains(category)]
     dfc['title_wo_stopwords'] = dfc['title'].apply(lambda x: [x.lower() for x in re.findall(
@@ -159,7 +161,7 @@ def barCloud(df, w, variable='sub_sub_category', mode='RGB', top=5):
 
     for n, images in enumerate(lista_images):
         file_name = "image{}.png".format(n+1)
-        plot_wordcloud(df, images, w, file_ouput=file_name, mode=mode)
+        plot_wordcloud_bar(df, images, w, file_ouput=file_name, mode=mode)
 
     fig = go.Figure()
 
@@ -205,7 +207,7 @@ def barCloud(df, w, variable='sub_sub_category', mode='RGB', top=5):
         margin=dict(r=20, l=300, b=75, t=125)
     )
 
-    fig.show()
+    return fig
 
 ##################################################
 ############## Barritas  Sencillas################
@@ -247,7 +249,7 @@ def bar(df, w, variable='sub_sub_category', top=7):
         margin=dict(r=20, l=300, b=75, t=125)
     )
 
-    fig.show()
+    return fig
 
 ##################################################
 ##################### Gráfica Pie ################
@@ -266,37 +268,49 @@ def pie(df, w, variable='sub_sub_category', top=7):
                  df_group[variable].to_list())
     return (fig)
 
-##################################################
-############### Insight de Tendencia #############
-##################################################
+#####################################################
+# GRÁFICAS DISPERSIÓN##########################Nombre:figDISP1,figDISP2
+###################################################
 
 
-# def insight_trend(df):
+def dispersion(df, index_value):
+    table = pd.pivot_table(df, values=['estimated_purchases', 'estimated_views'], index=index_value,
+                           columns=[], aggfunc=np.sum)
+    df = table.reset_index()
+    figDISP = px.scatter(df, x="estimated_purchases", y="estimated_views", color="estimated_purchases",
+                         size='estimated_purchases', hover_data=[index_value])
+    figDISP.update_layout(legend_title_text="Brands")
+    figDISP.update_xaxes(title_text="Purchases")
+    figDISP.update_yaxes(title_text="Views")
+    return figDISP
+
+##############################################
+# Insights Tendencia##########################
+##############################################
+
+
+def insight_trend(df):
     # best month of the df
-    df['month'] = df['month'].apply(lambda x: calendar.month_abbr[x])
-    df['month'] = pd.Categorical(df['month'], categories=[
-                                 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'], ordered=True)
-    df_group = df[['month', 'estimated_views']].groupby('month', as_index=False)\
+    df_group = df[['month', 'estimated_views', 'estimated_purchases']].groupby('month', as_index=False)\
         .sum()\
         .sort_values('month', ascending=True)\
         .reset_index(drop=True)
-    most_views = df_group[df_group['estimated_views'] ==
-                          df_group['estimated_views'].max()]['month'].to_list()[0]
-    less_views = df_group[df_group['estimated_views'] ==
-                          df_group['estimated_views'].min()]['month'].to_list()[0]
-    most_purchases = df_group[df_group['estimated_purchases'] ==
-                              df_group['estimated_purchases'].max()]['month'].to_list()[0]
-    less_purchases = df_group[df_group['estimated_purchases'] ==
-                              df_group['estimated_purchases'].min()]['month'].to_list()[0]
+    most_views = str(df_group[df_group['estimated_views'] ==
+                              df_group['estimated_views'].max()]['month'].to_list()[0])
+    less_views = str(df_group[df_group['estimated_views'] ==
+                              df_group['estimated_views'].min()]['month'].to_list()[0])
+    most_purchases = str(df_group[df_group['estimated_purchases'] ==
+                                  df_group['estimated_purchases'].max()]['month'].to_list()[0])
+    less_purchases = str(df_group[df_group['estimated_purchases'] ==
+                                  df_group['estimated_purchases'].min()]['month'].to_list()[0])
     response = openai.Completion.create(
         model="text-davinci-003",
-        prompt="A partir de las siguientes características de una gráfica describe extensivamente los insights en un párrafo.\n\nMes con más vistas: " + most_views +
-        "\nMes con menos vistas: " + less_views + "\nMes con más compras: " +
-        most_purchases+"\nMes con menos compras: "+less_purchases + "\n\nInsights:",
+        prompt="A partir de las siguientes características de una gráfica describe extensivamente los insights en un párrafo. Cambia los meses por texto.\n\nNúmero de mes con más vistas: " + most_views +
+        "\nNúmero de mes con menos vistas: " + less_views + "\nNúmero de mes con más compras: " +
+        most_purchases+"\nNúmero de mes con menos compras: " +
+        less_purchases + "\n\nInsights:",
         temperature=0.6,
         max_tokens=2018,
-        top_p=1,
-        frequency_penalty=0.43,
-        presence_penalty=0.31
+        top_p=1
     )
-    return response['choices'][0]['text']
+    return response.choices[0].text
