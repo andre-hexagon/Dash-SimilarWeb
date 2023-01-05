@@ -24,12 +24,18 @@ import plotly.graph_objects as go
 
 
 # SQL = sql_connection_class.sql_connection()
-# query_str = "SELECT * FROM similar_web_raw where main_category not in ('N/A') limit 5000"
-# df = SQL.exec_query(query_str)
+# query_groupedTotal = "SELECT * FROM SW_GROUPED_TOTAL limit 5000"
+# query_groupedByMonth = "SELECT * FROM SW_GROUPED_BY_MONTH limit 5000"
+# df = SQL.exec_query(query_groupedTotal)
+# df.rename(columns={col:col.lower() for col in df.columns},inplace=True)
+
+# dfMonth = SQL.exec_query(query_groupedByMonth)
+# dfMonth.rename(columns={col:col.lower() for col in dfMonth.columns},inplace=True)
 
 # print(df.columns)
 # print(df['main_category'].head())
 df = pd.read_csv('MOCK_DATA.csv')
+dfMonth = pd.read_csv('MOCK_DATA.csv')
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.LUX])
 
@@ -42,7 +48,7 @@ imagen = [
 titulo = html.Title("Sell Sheet CMI",style={'width': '66%', 'display': 'inline-block','font-size':'5em','text-align':'center','vertical-align': 'top'})
 
 texto = html.Div([
-    html.H6("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.")
+    # html.H6(insight_trend(df))
 ])
 
 app.layout = dbc.Container([
@@ -69,7 +75,7 @@ app.layout = dbc.Container([
             dbc.Card([
                 dbc.CardBody([
                     html.H6("Comportamiento semanal de vistas y compras por usuario",style={'text-align': 'center'}),
-                    dcc.Graph(figure=TemporalGraph1(df['month'],df['estimated_views']))
+                    dcc.Graph(figure=TemporalGraph1(dfMonth['month'],dfMonth['estimated_views']))
                 ])
             ]),
         ]),
@@ -85,7 +91,7 @@ app.layout = dbc.Container([
         dbc.Col([
             dbc.Card([
                 dbc.CardBody([
-                    dcc.Graph(figure=TemporalGraph2(df['month'],df['estimated_views'],df['estimated_views']))
+                    dcc.Graph(figure=TemporalGraph2(dfMonth['month'],dfMonth['estimated_views'],dfMonth['estimated_views']))
                 ])
             ]),
         ]),

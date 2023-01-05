@@ -1,3 +1,9 @@
+import openai
+import os
+import re
+import calendar
+
+
 import nltk
 import dash
 import dash_core_components as dcc
@@ -14,6 +20,8 @@ from nltk.corpus import stopwords
 nltk.download('stopwords')
 stop = stopwords.words("spanish")
 import re
+
+openai.api_key = "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"
 
 
 ################################################## 
@@ -272,3 +280,36 @@ def dispersion(df,index_value):
     figDISP.update_xaxes(title_text="Purchases")
     figDISP.update_yaxes(title_text="Views")
     return figDISP
+
+
+
+# def insight_trend(df):
+#     # best month of the df
+#     df['month'] = df['date'].dt.month
+#     df['month'] = df['month'].apply(lambda x: calendar.month_abbr[x])
+#     df['month'] = pd.Categorical(df['month'], categories=[
+#                                  'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'], ordered=True)
+#     df_group = df[['month', 'estimated_views']].groupby('month', as_index=False)\
+#         .sum()\
+#         .sort_values('month', ascending=True)\
+#         .reset_index(drop=True)
+#     most_views = df_group[df_group['estimated_views'] ==
+#                           df_group['estimated_views'].max()]['month'].to_list()[0]
+#     less_views = df_group[df_group['estimated_views'] ==
+#                           df_group['estimated_views'].min()]['month'].to_list()[0]
+#     most_purchases = df_group[df_group['estimated_purchases'] ==
+#                               df_group['estimated_purchases'].max()]['month'].to_list()[0]
+#     less_purchases = df_group[df_group['estimated_purchases'] ==
+#                               df_group['estimated_purchases'].min()]['month'].to_list()[0]
+#     response = openai.Completion.create(
+#         model="text-davinci-003",
+#         prompt="A partir de las siguientes características de una gráfica describe extensivamente los insights en un párrafo.\n\nMes con más vistas: " + most_views +
+#         "\nMes con menos vistas: " + less_views + "\nMes con más compras: " +
+#         most_purchases+"\nMes con menos compras: "+less_purchases + "\n\nInsights:",
+#         temperature=0.6,
+#         max_tokens=2018,
+#         top_p=1,
+#         frequency_penalty=0.43,
+#         presence_penalty=0.31
+#     )
+#     return response['choices'][0]['text']
